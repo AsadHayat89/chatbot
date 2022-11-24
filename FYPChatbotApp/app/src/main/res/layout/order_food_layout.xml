@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_margin="8dp"
+    app:cardElevation="6dp"
+    app:cardBackgroundColor="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical">
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/f">
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/food_quantity"
+                android:textColor="@color/grey"
+                android:layout_margin="3dp"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text="0"/>
+
+            <TextView
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/order_food_name"
+                android:textColor="@color/grey"
+                android:layout_margin="3dp"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text="food"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="15dp">
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/order_food_price"
+                android:textColor="@color/grey"
+                android:layout_margin="3dp"
+                android:textSize="16sp"
+                android:text="Rs. 100" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,2491 @@
+{
+  "Category" : {
+    "c11" : {
+      "Image" : "https://images.unsplash.com/photo-1619096252214-ef06c45683e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "Name" : "SANDWICH"
+    },
+    "c12" : {
+      "Image" : "https://media.istockphoto.com/photos/cheeseburger-with-tomato-and-lettuce-on-wooden-board-picture-id1309352410?b=1&k=20&m=1309352410&s=170667a&w=0&h=YduYl7Us5MSrw1EFSCxR9zDRLnEFa_O608NdqhHlSyM=",
+      "Name" : "BURGER"
+    },
+    "c13" : {
+      "Image" : "https://images.unsplash.com/photo-1574126154517-d1e0d89ef734?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGl6emF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "Name" : "PIZZA"
+    },
+    "c14" : {
+      "Image" : "https://media.istockphoto.com/photos/italian-lunch-spaghetti-alla-puttanesca-italian-pasta-dish-with-picture-id1309699313?b=1&k=20&m=1309699313&s=170667a&w=0&h=gqvQgatKs8mU0Fz2ySfi0h5PUTCe1ZQ2JGgmhJcP6-s=",
+      "Name" : "PASTA"
+    },
+    "c15" : {
+      "Image" : "https://steemitimages.com/640x0/https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQai78_scai6YVB6XVcvXRlZILPQDVnHRG_C6t_sGvLNHoMu9Gh",
+      "Name" : "CHICKEN"
+    },
+    "c16" : {
+      "Image" : "https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "Name" : "BIRYANI"
+    },
+    "c17" : {
+      "Image" : "https://images.unsplash.com/photo-1585032226651-759b368d7246?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpbmVzZSUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "Name" : "CHINESE"
+    },
+    "c18" : {
+      "Image" : "https://media.istockphoto.com/photos/red-lentil-indian-soup-with-flat-bread-masoor-dal-picture-id495455834?b=1&k=20&m=495455834&s=170667a&w=0&h=jp0FaOosGXmFo0qiXLJ1M0igis6DuexZ9LSuD3sAVgU=",
+      "Name" : "DAAL"
+    },
+    "c19" : {
+      "Image" : "https://tiffinandteaofficial.com/wp-content/uploads/2020/06/IMG_6707-1-scaled.jpg",
+      "Name" : "PULAO"
+    },
+    "c20" : {
+      "Image" : "https://www.masala.tv/wp-content/uploads/2020/09/Mix-subzii.jpg",
+      "Name" : "SABZI"
+    },
+    "c21" : {
+      "Image" : "https://recipe52.com/wp-content/uploads/2021/06/chana-chaat-14.jpg",
+      "Name" : "CHAAT"
+    },
+    "c22" : {
+      "Image" : "https://media.istockphoto.com/photos/lamb-koftas-picture-id539366936?b=1&k=20&m=539366936&s=170667a&w=0&h=KoPxfiucg1AIifLxcNgXlOyfj7SuItxkPN1idHsqMH8=",
+      "Name" : "KABAB"
+    },
+    "c23" : {
+      "Image" : "https://www.flourandspiceblog.com/wp-content/uploads/2020/05/Mutton-Handi-3-500x375.jpg",
+      "Name" : "MUTTON"
+    },
+    "c24" : {
+      "Image" : "https://thumbs.dreamstime.com/b/stew-cooked-meat-chives-onions-180858654.jpg",
+      "Name" : "BEEF"
+    },
+    "c25" : {
+      "Image" : "https://media.istockphoto.com/photos/fillet-of-salmon-with-asparagus-picture-id184315175?b=1&k=20&m=184315175&s=170667a&w=0&h=ATmP8l3j7qkeUoZ9bHju00bnVnZ3ogMWKsYSqLQ9NoE=",
+      "Name" : "FISH"
+    },
+    "c26" : {
+      "Image" : "https://media.istockphoto.com/photos/healthy-vegan-broth-picture-id1216469767?b=1&k=20&m=1216469767&s=170667a&w=0&h=bkizm1iNF1HFwt3Q-Abn8D1E1wOiFQa1eOG_-saAS2Y=",
+      "Name" : "SOUP"
+    },
+    "c27" : {
+      "Image" : "https://images.unsplash.com/photo-1551198297-094dd136d3e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGp1aWNlcyUyMGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "Name" : "DRINKS"
+    },
+    "c28" : {
+      "Image" : "https://media.istockphoto.com/photos/table-with-various-cookies-tarts-cakes-cupcakes-and-cakepops-picture-id623709028?b=1&k=20&m=623709028&s=170667a&w=0&h=a8dGortoBncRMp0MOS217XgAWPU33SIEMAOGgpO7l54=",
+      "Name" : "SWEET & DESSERTS"
+    },
+    "c29" : {
+      "Image" : "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aWNlJTIwY3JlYW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "Name" : "ICE CREAM"
+    },
+    "c30" : {
+      "Image" : "https://images.unsplash.com/photo-1561047029-3000c68339ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29mZmVlJTIwY3VwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "Name" : "COFFEE"
+    },
+    "c31" : {
+      "Image" : "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZnJpZWQlMjBjaGlja2VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "Name" : "FRIED ITEMS"
+    },
+    "c32" : {
+      "Image" : "https://media.istockphoto.com/photos/soya-paneer-kathi-roll-picture-id1324903182?b=1&k=20&m=1324903182&s=170667a&w=0&h=1RovDnmSxnV5VFmxhOMUChhnxNJrYfWN7sEOolMgdLc=",
+      "Name" : "PARATHA ROLLS"
+    },
+    "c33" : {
+      "Image" : "https://media.istockphoto.com/photos/sauce-of-yogurt-with-herbs-spices-and-cucumber-closeup-on-the-table-picture-id1056787708?b=1&k=20&m=1056787708&s=170667a&w=0&h=a3Rkiei7RdoImHObLMTryAnOZzUQgaBSA8jNOnSflV4=",
+      "Name" : "SIDES"
+    },
+    "c34" : {
+      "Image" : "https://images.unsplash.com/photo-1622896784083-cc051313dbab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FrZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "Name" : "CAKE"
+    }
+  },
+  "Catering_Orders" : {
+    "-MzAB5flpPEp3O2D5wfe" : {
+      "date" : "23-03-2022",
+      "delivery_charges" : "300",
+      "event_location" : "abc",
+      "food_items" : [ {
+        "name" : "chicken biryani",
+        "price" : "10000"
+      } ],
+      "people" : "200",
+      "time" : "16:00",
+      "total_bill" : "10300",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    },
+    "-MzUEkLIspkQAa2HzcUL" : {
+      "date" : "23-02-2022",
+      "delivery charges" : "300",
+      "event_location" : "abc",
+      "food_items" : [ {
+        "name" : "chicken biryani",
+        "price" : "10000"
+      } ],
+      "people" : "200",
+      "time" : "13:00",
+      "total_bill" : "10300",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    },
+    "-MzUFPk8m6w6RzpCusKm" : {
+      "date" : "23-02-2022",
+      "delivery charges" : "300",
+      "event_location" : "abc",
+      "food_items" : [ {
+        "name" : "chicken biryani",
+        "price" : "10000"
+      } ],
+      "people" : "200",
+      "time" : "12:00",
+      "total_bill" : "10300",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    }
+  },
+  "Deal_Category" : {
+    "dc1" : {
+      "Image" : "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJyZWFrZmFzdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "Name" : "Breakfast Deals"
+    },
+    "dc2" : {
+      "Image" : "https://thumbs.dreamstime.com/b/bacon-cheese-burger-beef-patty-tomato-onion-pizza-mozzarella-ham-tomatoes-salami-pepper-pepperoni-spices-fresh-basil-123768697.jpg",
+      "Name" : "Fast Food Deals"
+    },
+    "dc3" : {
+      "Image" : "https://pcprd.azureedge.net/content/3ff5fac24e5c.jpg",
+      "Name" : "Desi Food Deals"
+    },
+    "dc4" : {
+      "Image" : "https://www.alleasyfoodrecipes.net/wp-content/uploads/2020/04/chinese-noodles-with-prawns.jpg",
+      "Name" : "Chinese Deals"
+    },
+    "dc5" : {
+      "Image" : "https://purewows3.imgix.net/images/articles/2021_07/types-of-fish-to-eat_salmon.jpg?auto=format,compress&cs=strip",
+      "Name" : "Fish Deals"
+    },
+    "dc6" : {
+      "Image" : "https://hamariweb.com/recipes/images/recipeimages/3464.jpg",
+      "Name" : "Biryani Deals"
+    }
+  },
+  "Deals" : {
+    "d11" : {
+      "cat_id" : "dc1",
+      "deal_description" : "A breakfast deal containing delicious daal makhni to eat with naan, and lassi as a drink.",
+      "deal_name" : "Zouk Deal",
+      "deal_price" : "280",
+      "food_items" : [ {
+        "name" : "Naan",
+        "quantity" : "2"
+      }, {
+        "name" : "Daal Makhni",
+        "quantity" : "1"
+      }, {
+        "name" : "Lassi",
+        "quantity" : "1"
+      } ]
+    },
+    "d12" : {
+      "cat_id" : "dc1",
+      "deal_description" : "Special nashta deal is a breakfast deal which contains nihari of mutton to eat with naan, and tea with milks as a drink.",
+      "deal_name" : "Special Nashta Deal",
+      "deal_price" : "290",
+      "food_items" : [ {
+        "name" : "Naan",
+        "quantity" : "2"
+      }, {
+        "name" : "Nihari",
+        "quantity" : "1"
+      }, {
+        "name" : "Tea With Milk",
+        "quantity" : "1"
+      } ]
+    },
+    "d13" : {
+      "cat_id" : "dc1",
+      "deal_description" : "A delicious breakfast deal containg chana and halwa to eat with puri, and tea with milk as a drink, perfect breakfast for sahri in Ramadan.",
+      "deal_name" : "Sahri Deal",
+      "deal_price" : "190",
+      "food_items" : [ {
+        "name" : "HalwaPuri",
+        "quantity" : "2"
+      }, {
+        "name" : "Tea With Milk",
+        "quantity" : "1"
+      } ]
+    },
+    "d14" : {
+      "cat_id" : "dc1",
+      "deal_description" : "A desi nashta deal containing lobia curry as a major dish, to eat with paratha and tea with milk as a drink.",
+      "deal_name" : "Desi Nashta Deal",
+      "deal_price" : "390",
+      "food_items" : [ {
+        "name" : "Paratha",
+        "quantity" : "1"
+      }, {
+        "name" : "Lobia Curry",
+        "quantity" : "1"
+      }, {
+        "name" : "Tea With Milk",
+        "quantity" : "1"
+      } ]
+    },
+    "d27" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A fast food deal having zinger burger, chicken broast and coca cola, as a drink",
+      "deal_name" : "Person Deal",
+      "deal_price" : "580",
+      "food_items" : [ {
+        "name" : "Zinger Burger",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Broast",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d28" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A fast food family deal containing chicken tikka pizza, zinger burger, chicken sticks and coca cola, as a drink.",
+      "deal_name" : "Family Deal",
+      "deal_price" : "1270",
+      "food_items" : [ {
+        "name" : "Chicken Tikka Pizza",
+        "quantity" : "1"
+      }, {
+        "name" : "Zinger Burger",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Sticks",
+        "quantity" : "4"
+      }, {
+        "name" : "Coca Cola (1.5L)",
+        "quantity" : "1"
+      } ]
+    },
+    "d29" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A heavy super fast food family deal containing chicken tikka pizza, fajita pizza, soup of the day, chicken seekh kabab, french fries platter and fanta, as a drink.",
+      "deal_name" : "Super Family Deal",
+      "deal_price" : "2210",
+      "food_items" : [ {
+        "name" : "Chicken Tikka Pizza",
+        "quantity" : "1"
+      }, {
+        "name" : "Fajita Pizza",
+        "quantity" : "1"
+      }, {
+        "name" : "Family Soup of the day (Corn Vegetable Soup/Chicken Corn Soup)",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Seekh Kabab",
+        "quantity" : "1"
+      }, {
+        "name" : "French Fries Platter",
+        "quantity" : "1"
+      }, {
+        "name" : "Fanta (1.5L)",
+        "quantity" : "1"
+      } ]
+    },
+    "d30" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A deal containing fish pizza, a fast food; chicken qorma, a desi dish and sprite, as a drink.",
+      "deal_name" : "Group Deal",
+      "deal_price" : "1540",
+      "food_items" : [ {
+        "name" : "Fish Pizza",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Qorma",
+        "quantity" : "1"
+      }, {
+        "name" : "Sprite (1.5L)",
+        "quantity" : "1"
+      } ]
+    },
+    "d31" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A fast food deal especially for students containing Tasty Hamburger. Most students favourite i.e. french fries platter with addition of crunchy chicken sticks and coca cola as a drink.",
+      "deal_name" : "Student Deal",
+      "deal_price" : "450",
+      "food_items" : [ {
+        "name" : "HamBurger",
+        "quantity" : "1"
+      }, {
+        "name" : "French Fries Platter",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Sticks",
+        "quantity" : "4"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d32" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A fast food deal containing zinger burger with yummy tasty french fries, and coca cola as a drink, making your food really tasteful.",
+      "deal_name" : "Zinger Deal",
+      "deal_price" : "540",
+      "food_items" : [ {
+        "name" : "Zinger Burger",
+        "quantity" : "2"
+      }, {
+        "name" : "French Fries Platter",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d33" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A yummiest fast food deal containing a combo of pizza and pasta, now enjoy both in one deal. Pizza Pasta Deal contains italian pizza, vegetable alfredo pizza and add up of Hotshot for making your tastes crunchy and sprite in drink.",
+      "deal_name" : "Pizza Pasta Deal",
+      "deal_price" : "1880",
+      "food_items" : [ {
+        "name" : "Italian Pizza",
+        "quantity" : "1"
+      }, {
+        "name" : "Vegetable Alfredo Pasta",
+        "quantity" : "1"
+      }, {
+        "name" : "Hot Shots",
+        "quantity" : "1"
+      }, {
+        "name" : "Sprite (1.5L)",
+        "quantity" : "1"
+      } ]
+    },
+    "d34" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A deal containing full roast chicken, making your food yummy and healthy and Coca Cola as a drink.",
+      "deal_name" : "Roast Chicken Deal",
+      "deal_price" : "520",
+      "food_items" : [ {
+        "name" : "Roast Chicken",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d35" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A deal containing fried chicken, adding yummiest taste in your food and fanta as a drink. Now enjoy this deal with your family and friends.",
+      "deal_name" : "Fried Chicken Deal",
+      "deal_price" : "699",
+      "food_items" : [ {
+        "name" : "Chicken Fry Pieces",
+        "quantity" : "6"
+      }, {
+        "name" : "Fanta (1.5L)",
+        "quantity" : "1"
+      } ]
+    },
+    "d36" : {
+      "cat_id" : "dc2",
+      "deal_description" : "A Special Lasagne Deal containing Lasagne and Nuggets; making a perfect combo of food and sprite as a drink.",
+      "deal_name" : "Lasagne Deal",
+      "deal_price" : "960",
+      "food_items" : [ {
+        "name" : "Lasagne",
+        "quantity" : "1"
+      }, {
+        "name" : "Nuggets",
+        "quantity" : "5"
+      }, {
+        "name" : "Sprite (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d37" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A traditional food deal for one person making your launch and dinner both delicious by dal chawal, spicy paratha roll and coca cola as a drink.",
+      "deal_name" : "Desi Person Deal",
+      "deal_price" : "315",
+      "food_items" : [ {
+        "name" : "Dal Chawal",
+        "quantity" : "1"
+      }, {
+        "name" : "Spicy Paratha Roll",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d38" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A traditional food deal for families containing nihari, chicken biryani, bbq paratha roll, chicken sandwich and sprite as drink. Now enjoy this deal with your whole family.",
+      "deal_name" : "Desi Family Deal",
+      "deal_price" : "1050",
+      "food_items" : [ {
+        "name" : "Nihari",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "BBQ Paratha Roll",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Sandwich",
+        "quantity" : "2"
+      }, {
+        "name" : "Sprite (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d39" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A super family deal especially for big families containing chicken sajji, fish cutlets, special family soup of the day, chicken tikka and fanta as a drink.",
+      "deal_name" : "Desi Super Family Deal",
+      "deal_price" : "2150",
+      "food_items" : [ {
+        "name" : "Chicken Sajji",
+        "quantity" : "1"
+      }, {
+        "name" : "Fish Cutlets",
+        "quantity" : "6"
+      }, {
+        "name" : "Family Soup of the day (Corn Vegetable Soup/Chicken Corn Soup)",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Tikka",
+        "quantity" : "1"
+      }, {
+        "name" : "Fanta (1.5L)",
+        "quantity" : "1"
+      } ]
+    },
+    "d40" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A traditional food deal mainly for friends, families and office collagues groups containing siri paye, masala fish curry, grilled fish steaks and fanta as a drink.",
+      "deal_name" : "Desi Group Deal",
+      "deal_price" : "1710",
+      "food_items" : [ {
+        "name" : "Siri Paye",
+        "quantity" : "1"
+      }, {
+        "name" : "Masala Fish Curry",
+        "quantity" : "1"
+      }, {
+        "name" : "Grilled Fish Steaks",
+        "quantity" : "1"
+      }, {
+        "name" : "Fanta (1.5L)",
+        "quantity" : "1"
+      } ]
+    },
+    "d41" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A traditional food deal for students containing channa biryani, lobia chaat, bbq paratha roll and addition of french fries platter in student deal adds up more tastes in food and coca cola as drink.",
+      "deal_name" : "Desi Student Deal",
+      "deal_price" : "510",
+      "food_items" : [ {
+        "name" : "Chana Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Lobia Chaat",
+        "quantity" : "1"
+      }, {
+        "name" : "BBQ Paratha Roll",
+        "quantity" : "1"
+      }, {
+        "name" : "French Fries Platter",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d42" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A Traditional pakistani haleem deal containing tasty, yummy, delicious haleem and coca cola as a drink.",
+      "deal_name" : "Haleem Deal",
+      "deal_price" : "265",
+      "food_items" : [ {
+        "name" : "Haleem",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d43" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A tranditional pulao deal containing special kabuli pulao, tasty & yummy channa chat and sprite as drink.",
+      "deal_name" : "Kabuli Pulao Deal",
+      "deal_price" : "355",
+      "food_items" : [ {
+        "name" : "Kabuli Pulao",
+        "quantity" : "1"
+      }, {
+        "name" : "Channa Chat",
+        "quantity" : "1"
+      }, {
+        "name" : "Sprite (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d44" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A tranditional mutton yakhni pulao deal containing tasty mutton yakhni pulao, delicious chapli kabab and fanta as drink.",
+      "deal_name" : "Pulao Special Deal",
+      "deal_price" : "475",
+      "food_items" : [ {
+        "name" : "Mutton Yakhni Pulao",
+        "quantity" : "1"
+      }, {
+        "name" : "Chapli kabab",
+        "quantity" : "2"
+      }, {
+        "name" : "Fanta (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d45" : {
+      "cat_id" : "dc3",
+      "deal_description" : "A traditional chicken tandoori deal containing chicken tandoori, special chicken rice soup mostly liked by families, and lightly lemon water as drink. A perfect healthy deal.",
+      "deal_name" : "Chicken Tandori Deal",
+      "deal_price" : "650",
+      "food_items" : [ {
+        "name" : "Chicken Tandori",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Rice Soup",
+        "quantity" : "1"
+      }, {
+        "name" : "Lemon Water",
+        "quantity" : "1"
+      } ]
+    },
+    "d46" : {
+      "cat_id" : "dc4",
+      "deal_description" : "A Special Chinese Deal especially for chinese food lovers containing white spaghetti, special chinese vegetable dumplings and a healthy Chinese Hot Vegetable Soup. A perfect healthy chinese deal.",
+      "deal_name" : "Chinese Special Deal",
+      "deal_price" : "920",
+      "food_items" : [ {
+        "name" : "White Spaghetti",
+        "quantity" : "1"
+      }, {
+        "name" : "Vegetable Dumplings",
+        "quantity" : "1"
+      }, {
+        "name" : "Chinese Hot Vegetable Soup",
+        "quantity" : "1"
+      } ]
+    },
+    "d47" : {
+      "cat_id" : "dc4",
+      "deal_description" : "Chinese special one person deal for chinese food lovers containing Chinese Fried Rice, Vegetable Dumplings and tasty chicken corn soup.",
+      "deal_name" : "Chinese Person Deal",
+      "deal_price" : "750",
+      "food_items" : [ {
+        "name" : "Chinese Fried Rice",
+        "quantity" : "1"
+      }, {
+        "name" : "Vegetable Dumplings",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Corn Soup",
+        "quantity" : "1"
+      } ]
+    },
+    "d48" : {
+      "cat_id" : "dc4",
+      "deal_description" : "Chinese special family deal containing Chinese Steamed Rice, Beef Chowmein, Spicy & Yummy Beef Dumplings and addition of Beef Barley Soup. A perfect family  deal for chinese food lovers families.",
+      "deal_name" : "Chinese Family Deal",
+      "deal_price" : "1150",
+      "food_items" : [ {
+        "name" : "Chinese Steamed Rice",
+        "quantity" : "2"
+      }, {
+        "name" : "Beef Chowmein",
+        "quantity" : "1"
+      }, {
+        "name" : "Spicy Beef Dumplings",
+        "quantity" : "1"
+      }, {
+        "name" : "Beef Barley Soup",
+        "quantity" : "1"
+      } ]
+    },
+    "d49" : {
+      "cat_id" : "dc4",
+      "deal_description" : "Chinese super deal for big families containing Chicken Vegetable Spaghetti, Spicy Beef Dumplings, Mutton Chowmein, Fish Cutlets and Tasty, yummy & delicious Mushroom Soup.",
+      "deal_name" : "Chinese Super Family Deal",
+      "deal_price" : "1850",
+      "food_items" : [ {
+        "name" : "Chicken Vegetable Spaghetti",
+        "quantity" : "2"
+      }, {
+        "name" : "Spicy Beef Dumplings",
+        "quantity" : "1"
+      }, {
+        "name" : "Mutton Chowmein",
+        "quantity" : "1"
+      }, {
+        "name" : "Mushroom Soup",
+        "quantity" : "1"
+      }, {
+        "name" : "Fish Cutlets",
+        "quantity" : "4"
+      } ]
+    },
+    "d50" : {
+      "cat_id" : "dc4",
+      "deal_description" : "A group deal containing Chinese Fried Rice, Spicy Egg Noodles, Vegetable Chowmein, Fish Rolls, and a combo of soups containing Pumpkin Soup & Lentil Soup.",
+      "deal_name" : "Chinese Group Deal",
+      "deal_price" : "2450",
+      "food_items" : [ {
+        "name" : "Chinese Fried Rice",
+        "quantity" : "2"
+      }, {
+        "name" : "Spicy Egg Noodles",
+        "quantity" : "1"
+      }, {
+        "name" : "Vegetable Chowmein",
+        "quantity" : "2"
+      }, {
+        "name" : "Fish Rolls",
+        "quantity" : "2"
+      }, {
+        "name" : "Pumpkin Soup",
+        "quantity" : "1"
+      }, {
+        "name" : "Lentil Soup",
+        "quantity" : "1"
+      } ]
+    },
+    "d51" : {
+      "cat_id" : "dc4",
+      "deal_description" : "A Special Chinese Egg Noodles Deal containing Chinese Spicy Egg Noodles and tasty, yummy & delicious Vegetable Soup which adds up more delight to your food.",
+      "deal_name" : "Chinese Egg Noodles Deal",
+      "deal_price" : "620",
+      "food_items" : [ {
+        "name" : "Chinese Spicy Egg Noodles",
+        "quantity" : "1"
+      }, {
+        "name" : "Vegetable Soup",
+        "quantity" : "1"
+      } ]
+    },
+    "d52" : {
+      "cat_id" : "dc4",
+      "deal_description" : "A Special Chinese Spaghetti Noodles Deal containing Chicken Vegetable Spaghetti and special chinese Vegetable Soup. A perfect healthy chinese vegetable Spaghetti and Soup deal.",
+      "deal_name" : "Chinese Spaghetti Deal",
+      "deal_price" : "750",
+      "food_items" : [ {
+        "name" : "Chicken Vegetable Spaghetti",
+        "quantity" : "1"
+      }, {
+        "name" : "Chinese Vegetable Soup",
+        "quantity" : "1"
+      } ]
+    },
+    "d53" : {
+      "cat_id" : "dc4",
+      "deal_description" : "A Special Chinese Chowmein Deal containing Spicy Chicken Chowmein and Tasty Chicken Soup",
+      "deal_name" : "Chinese Chowmein Deal",
+      "deal_price" : "550",
+      "food_items" : [ {
+        "name" : "Chinese Spicy Chicken Chowmein",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Soup",
+        "quantity" : "1"
+      } ]
+    },
+    "d54" : {
+      "cat_id" : "dc4",
+      "deal_description" : "A Special Chinese Dumplings Deal containing Spicy Beef Dumplings and with addition of crunchy Hot Shots.",
+      "deal_name" : "Chinese Dumplings Deal",
+      "deal_price" : "680",
+      "food_items" : [ {
+        "name" : "Spicy Beef Dumplings",
+        "quantity" : "1"
+      }, {
+        "name" : "Hot Shots",
+        "quantity" : "1"
+      } ]
+    },
+    "d55" : {
+      "cat_id" : "dc4",
+      "deal_description" : "A Chinese Special Dual Soup Deal containing combo of two yummiest soups i.e. Chicken Corn Soup & Corn Vegetable Soup. A perfect combo soup deal for soup lovers.",
+      "deal_name" : "Chinese Dual Soup Deal",
+      "deal_price" : "620",
+      "food_items" : [ {
+        "name" : "Chicken Corn Soup",
+        "quantity" : "1"
+      }, {
+        "name" : "Corn Vegetable Soup",
+        "quantity" : "1"
+      } ]
+    },
+    "d56" : {
+      "cat_id" : "dc5",
+      "deal_description" : "A Special Fish Deal containing Tasty Fried Fish, Spicy Paratha Roll and coca cola as a drink.",
+      "deal_name" : "Special Fish Deal",
+      "deal_price" : "910",
+      "food_items" : [ {
+        "name" : "Fried Fish",
+        "quantity" : "1"
+      }, {
+        "name" : "Spicy Paratha Roll",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola",
+        "quantity" : "1"
+      } ]
+    },
+    "d57" : {
+      "cat_id" : "dc5",
+      "deal_description" : "A Special Masala Fish Deal containing Masala Fish, Delicious Masala Fish Curry and sprite as a drink.",
+      "deal_name" : "Masala Fish Deal",
+      "deal_price" : "1250",
+      "food_items" : [ {
+        "name" : "Masala Fish",
+        "quantity" : "1"
+      }, {
+        "name" : "Masala Fish Curry",
+        "quantity" : "1"
+      }, {
+        "name" : "Sprite (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d58" : {
+      "cat_id" : "dc5",
+      "deal_description" : "A Special Grilled Fish Deal containing Grilled Fish Steaks, Tandoori Fish and fanta as a drink.",
+      "deal_name" : "Grilled Fish Deal",
+      "deal_price" : "1150",
+      "food_items" : [ {
+        "name" : "Grilled Fish Steaks",
+        "quantity" : "1"
+      }, {
+        "name" : "Tandoori Fish",
+        "quantity" : "1"
+      }, {
+        "name" : "Fanta (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d59" : {
+      "cat_id" : "dc5",
+      "deal_description" : "A Special Roasted Fish Deal containing Mustard Roasted Fish, Crunchy & Tasty Fish Rolls and coca cola as a drink.",
+      "deal_name" : "Special Roasted Fish Deal",
+      "deal_price" : "1140",
+      "food_items" : [ {
+        "name" : "Mustard Roasted Fish",
+        "quantity" : "1"
+      }, {
+        "name" : "Fish Rolls",
+        "quantity" : "2"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d60" : {
+      "cat_id" : "dc5",
+      "deal_description" : "A Special Steamed Fish Deal containing Spicy & Yummy Steamed Fish with Fish Kababs; adding more tastes in your food and fanta as a drink.",
+      "deal_name" : "Steamed Fish Deal",
+      "deal_price" : "1450",
+      "food_items" : [ {
+        "name" : "Spicy Steamed Fish",
+        "quantity" : "1"
+      }, {
+        "name" : "Fish Kabab",
+        "quantity" : "2"
+      }, {
+        "name" : "Fanta (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d61" : {
+      "cat_id" : "dc5",
+      "deal_description" : "A Special Fish Burger Deal containing Fish Burger, Tasty French Fries Platter and Sprite in drink.",
+      "deal_name" : "Fish Burger Deal",
+      "deal_price" : "550",
+      "food_items" : [ {
+        "name" : "Fish Burger",
+        "quantity" : "2"
+      }, {
+        "name" : "French Fries Platter",
+        "quantity" : "1"
+      }, {
+        "name" : "Sprite (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d62" : {
+      "cat_id" : "dc6",
+      "deal_description" : "Special Pakistani Chicken Biryani Deal containing Chicken Biryani, Healthy & Tasty Mix Sabzi, Ras Malai in sweet dish and Coca Cola as a drink.",
+      "deal_name" : "Chicken Biryani Deal",
+      "deal_price" : "550",
+      "food_items" : [ {
+        "name" : "Chicken Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Mix Sabzi",
+        "quantity" : "1"
+      }, {
+        "name" : "Ras Malai",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola",
+        "quantity" : "1"
+      } ]
+    },
+    "d63" : {
+      "cat_id" : "dc6",
+      "deal_description" : "Special Pakistani Vegetable Biryani Deal containing Vegetable Biryani, Sweet Tutti Frutti Dessert and Coca Cola in drink.",
+      "deal_name" : "Vegetable Biryani Deal",
+      "deal_price" : "340",
+      "food_items" : [ {
+        "name" : "Vegetable Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Tutti Frutti Dessert",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola",
+        "quantity" : "1"
+      } ]
+    },
+    "d64" : {
+      "cat_id" : "dc6",
+      "deal_description" : "Special Pakistani Aloo Dum  Biryani Deal containing Aloo Dum Biryani, special Kadhi Pakora, Kheer as a sweet dish and Coca Cola as a drink.",
+      "deal_name" : "Aloo Dum  Biryani Deal",
+      "deal_price" : "590",
+      "food_items" : [ {
+        "name" : "Aloo Dum Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Kadhi Pakora",
+        "quantity" : "1"
+      }, {
+        "name" : "Kheer",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola",
+        "quantity" : "1"
+      } ]
+    },
+    "d65" : {
+      "cat_id" : "dc6",
+      "deal_description" : "Special Pakistani Chana Biryani Deal containing Yummy Chana Biryani, Doodh Dulari as Dessert and Coca Cola in drink.",
+      "deal_name" : "Chana Biryani Deal",
+      "deal_price" : "520",
+      "food_items" : [ {
+        "name" : "Chana Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Doodh Dulari",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola",
+        "quantity" : "1"
+      } ]
+    },
+    "d66" : {
+      "cat_id" : "dc6",
+      "deal_description" : "Special Pakistani Chicken Biryani Deal containing Tasty & Yummy Chicken Biryani, Healthy Mix Sabzi, Ras Malai as a sweet dish and Coca Cola as drink.",
+      "deal_name" : "Chicken Biryani Deal",
+      "deal_price" : "550",
+      "food_items" : [ {
+        "name" : "Chicken Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Mix Sabzi",
+        "quantity" : "1"
+      }, {
+        "name" : "Ras Malai",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola",
+        "quantity" : "1"
+      } ]
+    },
+    "d67" : {
+      "cat_id" : "dc6",
+      "deal_description" : "Special Pakistani Egg Biryani Deal containing Egg  Biryani, Crunchy & Yummy Chicken Wings and Sprite as a drink.",
+      "deal_name" : "Egg Biryani Deal",
+      "deal_price" : "490",
+      "food_items" : [ {
+        "name" : "Egg  Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Chicken Wings",
+        "quantity" : "4"
+      }, {
+        "name" : "Sprite (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d68" : {
+      "cat_id" : "dc6",
+      "deal_description" : "Special Pakistani Qeema Biryani Deal containing Qeema Biryani, Keema Karela, Kheer as a sweet dish and Coca Cola in drink.",
+      "deal_name" : "Qeema Biryani Deal",
+      "deal_price" : "470",
+      "food_items" : [ {
+        "name" : "Qeema Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Keema Karela",
+        "quantity" : "1"
+      }, {
+        "name" : "Kheer",
+        "quantity" : "1"
+      }, {
+        "name" : "Coca Cola (Reg)",
+        "quantity" : "1"
+      } ]
+    },
+    "d69" : {
+      "cat_id" : "dc6",
+      "deal_description" : "Special Pakistani Zafrani Biryani Deal containing Zafrani Biryani, Cheese Paratha Roll, and Sprite as a drink. A perfect yummiest deal, enjoy this deal with your family & friends.",
+      "deal_name" : "Zafrani Biryani Deal",
+      "deal_price" : "390",
+      "food_items" : [ {
+        "name" : "Zafrani Biryani",
+        "quantity" : "1"
+      }, {
+        "name" : "Cheese Paratha Roll",
+        "quantity" : "1"
+      }, {
+        "name" : "Sprite (Reg)",
+        "quantity" : "1"
+      } ]
+    }
+  },
+  "Event_Booking" : {
+    "-Mz9YpfFQ6KH8n526fCf" : {
+      "cake_price" : "1000",
+      "cake_type" : "cheesecake",
+      "cake_writing" : "happy birthday abeera",
+      "date" : "23-02-2022",
+      "decor" : "balloons",
+      "decor_price" : "1000",
+      "event_hours" : "3",
+      "event_songs" : "abc songs",
+      "event_type" : "birthday",
+      "food_items" : [ {
+        "name" : "chicken biryani",
+        "price" : "1250"
+      }, {
+        "name" : "chicken qorma",
+        "price" : "1250"
+      } ],
+      "hall_price" : "1500",
+      "people" : "25",
+      "songs_price" : "1500",
+      "time" : "15:00",
+      "total_price" : "6150",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    },
+    "-MzU7t6_5igB_Od8eC7J" : {
+      "cake_price" : "1000",
+      "cake_type" : "black forest cake",
+      "cake_writing" : "no writing",
+      "date" : "20-04-2021",
+      "decor" : "",
+      "decor_price" : "0",
+      "event_hours" : "5",
+      "event_songs" : "",
+      "event_type" : "birthday",
+      "food_items" : [ {
+        "name" : "chicken karahi",
+        "price" : "1200"
+      } ],
+      "hall_price" : "2500",
+      "people" : "24",
+      "songs_price" : "0",
+      "time" : "12:00",
+      "total_price" : "4700",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    },
+    "-MzUDH2qr1zG8sUfsKtx" : {
+      "cake_price" : "0",
+      "cake_type" : "",
+      "cake_writing" : "",
+      "date" : "23-01-2022",
+      "decor" : "",
+      "decor_price" : "0",
+      "event_hours" : "2",
+      "event_songs" : "",
+      "event_type" : "birthday",
+      "food_items" : [ {
+        "name" : "chicken karahi",
+        "price" : "1150"
+      } ],
+      "hall_price" : "1000",
+      "people" : "23",
+      "songs_price" : "0",
+      "time" : "12:00",
+      "total_price" : "2150",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    },
+    "-MzpNzmWUabmEcFiOYIq" : {
+      "cake_price" : "1000",
+      "cake_type" : "almond cake",
+      "cake_writing" : "happy birthday abeera",
+      "date" : "23-04-2022",
+      "decor" : "balloons : pink and white balloons, stage : white cloth and pink flowers, stage_writing : happy birthday abeera",
+      "decor_price" : "5000",
+      "event_hours" : "3",
+      "event_songs" : "abc songs",
+      "event_type" : "birthday",
+      "food_items" : [ {
+        "name" : "chicken biryani",
+        "price" : "1150"
+      } ],
+      "hall_price" : "1500",
+      "people" : "23",
+      "songs_price" : "150",
+      "time" : "12:00",
+      "total_price" : "8800",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    }
+  },
+  "Food" : {
+    "f100" : {
+      "description" : "Tangy and flavorful Punjabi Kadhi Pakora has deep fried pakoras (fritters) dunked in a tangy yogurt based curry.",
+      "image" : "https://www.teaforturmeric.com/wp-content/uploads/2019/07/Instant-Pot-Kadhi-2-728x1092.jpg",
+      "menuId" : "c20",
+      "name" : "Kadhi Pakora",
+      "price" : "120"
+    },
+    "f101" : {
+      "description" : "Chana chaat is a tasty, tangy and easy variety of chaat snack made with white chickpeas (chana or chole), spices, herbs, onions & potato.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/spicy-chana-chat_12746.jpg",
+      "menuId" : "c21",
+      "name" : "Channa Chat",
+      "price" : "70"
+    },
+    "f102" : {
+      "description" : "Lobia Chaat is a delicious, healthy chaat made with black-eyed peas (lobia) and a lot of vegetables along with crunchy bits of tomato, cucumber and onions giving a perfect texture.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/lobia-ki-chaat_16190.jpg",
+      "menuId" : "c21",
+      "name" : "Lobia Chaat",
+      "price" : "70"
+    },
+    "f103" : {
+      "description" : "Chapli Kebab or Kabab, a Pashtun-style minced kebab, usually made from ground beef, mutton or chicken with various spices in the shape of a patty.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/chicken-chapli-kabab_15877.jpg",
+      "menuId" : "c22",
+      "name" : "Chapli kabab",
+      "price" : "220"
+    },
+    "f104" : {
+      "description" : "Naan with kababs a traditional food containing Skinless chicken thighs, naan, yogurt, cucumber, garam masala.",
+      "image" : "https://st.depositphotos.com/2714851/4194/i/950/depositphotos_41946143-stock-photo-tikka-kofte-shish-donner-naan.jpg",
+      "menuId" : "c22",
+      "name" : "Naan Kababs",
+      "price" : "150"
+    },
+    "f105" : {
+      "description" : "Mutton Korma is a popular mutton curry made of mutton, onions, tomatoes, yoghurt, coriander, ginger.",
+      "image" : "https://img-global.cpcdn.com/recipes/110c505021ced86b/680x482cq70/mutton-korma-recipe-main-photo.webp",
+      "menuId" : "c23",
+      "name" : "Mutton Korma",
+      "price" : "140"
+    },
+    "f106" : {
+      "description" : "Paye is a traditional food containing Trotters or hoof (goat or sheep), onions, tomatoes, garlic, curry powder and other spices.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/desi-paye-recipe_14579.jpg",
+      "menuId" : "c23",
+      "name" : "Siri Paye",
+      "price" : "260"
+    },
+    "f107" : {
+      "description" : "Nihari is a stew consisting of slow-cooked meat, mainly shank meat of lamb, mutton and goat meat, along with bone marrow. It is flavored with long pepper, a relative of black pepper.",
+      "image" : "http://3.bp.blogspot.com/-3gBTdn5MQCk/UlAEfd-MSgI/AAAAAAAAAIw/-U5ypzFEob8/s1600/Beef+Nihari+-+Pak+recipes.jpg",
+      "menuId" : "c23",
+      "name" : "Nihari",
+      "price" : "190"
+    },
+    "f108" : {
+      "description" : "Aloo keema (also called keema aloo) is a traditional Pakistani dish made using ground Minced beef and potatoes.",
+      "image" : "https://hamariweb.com/recipes/images/recipeimages/3309.jpg",
+      "menuId" : "c24",
+      "name" : "Aloo Qeema",
+      "price" : "120"
+    },
+    "f109" : {
+      "description" : "Aloo gosht is a meat curry consisting of potatoes cooked with meat, usually beef, in a stew-like shorba gravy.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/aaloo-gosht-kari_5337.jpg",
+      "menuId" : "c24",
+      "name" : "Aloo Gosht",
+      "price" : "140"
+    },
+    "f11" : {
+      "description" : "A delicious bread sandwich containing marinated chicken pieces fried with sauces and spices.",
+      "image" : "https://media.gettyimages.com/photos/chicken-salad-sandwich-picture-id182209800?k=20&m=182209800&s=612x612&w=0&h=meX6NMhHS3ba4AZMt4W5veB9xhEVN5UriNAyuGMChyY=",
+      "menuId" : "c11",
+      "name" : "Chicken Sandwich",
+      "price" : "150"
+    },
+    "f110" : {
+      "description" : "Deep-fried, crispy fish fingers in which strips of fish are coated in a batter made of gram flour and some spices and then deep-fried in hot oil till crunchy.",
+      "image" : "https://media.istockphoto.com/photos/golden-cod-filets-garnished-with-lemon-slices-picture-id453002865?k=20&m=453002865&s=612x612&w=0&h=ww36-RpksH2AhoSD_lrb2fO4Pt6owLWfkUv6eRKawZQ=",
+      "menuId" : "c25",
+      "name" : "Fried Fish",
+      "price" : "650"
+    },
+    "f111" : {
+      "description" : "Tangy fish in a spicy, thick and delicious masala that adds a kick to your seafood cravings. Made from fresh ingredients, Fish Masala is must.",
+      "image" : "https://media.istockphoto.com/photos/delicious-crispy-king-fish-fry-also-known-as-indian-surmai-served-picture-id1292615420?k=20&m=1292615420&s=612x612&w=0&h=Lc4WR-GU06Ke4DvDCZ80OIasS2RX_Ajw6w2nnqpFi-w=",
+      "menuId" : "c25",
+      "name" : "Masala Fish",
+      "price" : "690"
+    },
+    "f112" : {
+      "description" : "Tandoori fish in which whole fish is marinated in yogurt and in spice lemon marinate which is then grilled to smoky and charred. The charred texture add so much flavour into the fish. Simple marination like chilli powder, cumin, turmeric, chaat masala, tandoori masala, lemon and yogurt make it super delicious.",
+      "image" : "https://thumbs.dreamstime.com/b/tandoori-fish-plate-condiment-lemon-directly-above-photo-pomfret-platter-garnished-onion-cilantro-217701342.jpg",
+      "menuId" : "c25",
+      "name" : "Tandoori Fish",
+      "price" : "740"
+    },
+    "f113" : {
+      "description" : "Spicy Steamed Fish mainly contains White fish fillets, fish sauce, spicy lime, fish stock and lime juice.",
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-s/0b/09/85/40/steamed-fish-with-spicy.jpg",
+      "menuId" : "c25",
+      "name" : "Spicy Steamed Fish",
+      "price" : "810"
+    },
+    "f114" : {
+      "description" : "Grilled fish steak in which fish fillets are grilled after marinating it with herbs, lemon juice, and aromatic spices.",
+      "image" : "https://media.istockphoto.com/photos/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background-picture-id1214416414?k=20&m=1214416414&s=612x612&w=0&h=GuXt7WJJhVo1IWf4HDmwww7NvxPdTUPUhhm_ZOnzeTg=",
+      "menuId" : "c25",
+      "name" : "Grilled Fish Steaks",
+      "price" : "610"
+    },
+    "f115" : {
+      "description" : "Mustard Roasted Fish made of Red snapper, dijon mustard, whole grain mustard, capers & black pepper.",
+      "image" : "https://yuliyaskitchenandmore.files.wordpress.com/2012/12/mustard-fish-009edited1.jpg",
+      "menuId" : "c25",
+      "name" : "Mustard Roasted Fish",
+      "price" : "750"
+    },
+    "f116" : {
+      "description" : "Masala Fish Curry made of Fish, Coconut milk, tamarind, tomato, corn powder & curry leaves.",
+      "image" : "https://hamariweb.com/recipes/images/recipeimages/70953.jpg",
+      "menuId" : "c25",
+      "name" : "Masala Fish Curry",
+      "price" : "660"
+    },
+    "f117" : {
+      "description" : "Fish Cutlets a great snack that tastes too good. Goes well with tartar sauce. Fish Cutlet has a slightly different taste from the usual cutlets. They are made with the combination of tuna fish, fresh herbs , spices and bread crumb coating.",
+      "image" : "https://www.mapsofindia.com/ci-moi-images/my-india/fish-cutlet-1024x712.jpg",
+      "menuId" : "c25",
+      "name" : "Fish Cutlets",
+      "price" : "450"
+    },
+    "f118" : {
+      "description" : "A snack made of a pastry dough which is quite similar to the african meat pie and the Chicken Pie Pastry and wrapped in a spicy Fish filling.",
+      "image" : "http://spicyworld.in/recipeimages/fish-roll-add.jpg",
+      "menuId" : "c25",
+      "name" : "Fish Roll",
+      "price" : "440"
+    },
+    "f119" : {
+      "description" : "Fish Kebab made of Potatoes, bread crumbs, pangasius, green chilies, lemon (a healthy food).",
+      "image" : "https://kfoods.com/images1/newrecipeicon/fish-kabab_2368.jpg",
+      "menuId" : "c25",
+      "name" : "Fish Kabab",
+      "price" : "550"
+    },
+    "f12" : {
+      "description" : "An egg fried bread sandwich with onion omelete, perfect for a healthy breakfast.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/egg-sandwiches_8582.jpg",
+      "menuId" : "c11",
+      "name" : "Egg Sandwich",
+      "price" : "160"
+    },
+    "f120" : {
+      "description" : "Chicken soup is a soup made from chicken, simmered in water, usually with various other ingredients. This classic chicken soup consists of a clear chicken broth with pieces of chicken or vegetables, common additions are pasta, noodles, dumplings, or grains such as rice and barley.",
+      "image" : "https://media.istockphoto.com/photos/mulligatawny-soup-with-naan-picture-id1173599844?b=1&k=20&m=1173599844&s=170667a&w=0&h=f9U4g9G4h5VMf-UXwjOnnmdRYUJO63rhIOndO4ycwFA=",
+      "menuId" : "c26",
+      "name" : "Chicken Soup",
+      "price" : "250"
+    },
+    "f121" : {
+      "description" : "Lentil soup is a soup based on lentils, it include vegetarian or meat, and consists of brown, red, yellow, green or black lentils, with or without the husk. Dehulled yellow and red lentils disintegrate in cooking, making a thick soup.",
+      "image" : "https://images.unsplash.com/photo-1603208784922-1f5e23f1dbe1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGVudGlsJTIwc291cHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "menuId" : "c26",
+      "name" : "Lentil Soup",
+      "price" : "350"
+    },
+    "f122" : {
+      "description" : "Tomato soup, a soup with tomatoes as the primary ingredient. It is served hot or cold. It is smooth in texture, and includes chunks of tomato, cream, chicken or vegetable stock, vermicelli, chunks of other vegetables and meatballs.",
+      "image" : "https://media.istockphoto.com/photos/fresh-tomato-soup-picture-id612242276?b=1&k=20&m=612242276&s=170667a&w=0&h=KesupU8htFT_0U1ZY-TYlFI3w5_63hX9ctRJAECBb8Y=",
+      "menuId" : "c26",
+      "name" : "Tomato Soup",
+      "price" : "430"
+    },
+    "f123" : {
+      "description" : "Beef barley soup taste's deeply beefy, and loaded with chunks of tender, flavorful meat, plump grains of barley, and aromatic vegetables.",
+      "image" : "https://media.istockphoto.com/photos/beef-and-barley-soup-picture-id615278110?b=1&k=20&m=615278110&s=170667a&w=0&h=MIABtQuuIxrhLQqxEjVUfG-JJAAEFMXD-nGPflR114A=",
+      "menuId" : "c26",
+      "name" : "Beef Barley Soup",
+      "price" : "460"
+    },
+    "f124" : {
+      "description" : "Chicken Rice Soup contains Skinless chicken thighs, ribs, grain white rice, chicken broth and carrots.",
+      "image" : "https://media.istockphoto.com/photos/chicken-rice-soup-with-bread-stick-picture-id177265996?b=1&k=20&m=177265996&s=170667a&w=0&h=WUIEp1LeEFcrKWHl1GM_r-WRacL7YByatCQyJ9kXBnQ=",
+      "menuId" : "c26",
+      "name" : "Chicken Rice Soup",
+      "price" : "420"
+    },
+    "f125" : {
+      "description" : "Mushroom soup is a simple type of soup where a basic roux is thinned with cream or milk and then mushrooms and/or mushroom broth are added.",
+      "image" : "https://media.istockphoto.com/photos/mushrooms-soup-picture-id1299553740?b=1&k=20&m=1299553740&s=170667a&w=0&h=yxtFiWpD5p4JF69-GfwYqYFL84rqOHwqXwchanysyro=",
+      "menuId" : "c26",
+      "name" : "Mushroom Soup",
+      "price" : "510"
+    },
+    "f126" : {
+      "description" : "A healthy version of Chicken Corn soup with desi chicken contains Creamed corn, soy sauce, boiled eggs, fish crackers & chili paste.",
+      "image" : "https://www.unileverfoodsolutions.lk/dam/global-ufs/mcos/meps/sri-lanka/calcmenu/recipes/LK-recipes/general/chicken-and-sweet-corn-soup/main-header.jpg",
+      "menuId" : "c26",
+      "name" : "Chicken Corn Soup",
+      "price" : "410"
+    },
+    "f127" : {
+      "description" : "Corn Vegetable Soup mainly contains some mixed vegetables, Sweet corn, beans, spring onion, corn flour & ginger.",
+      "image" : "https://media.istockphoto.com/photos/vegetable-soup-in-white-porcelain-bowl-picture-id183366960?b=1&k=20&m=183366960&s=170667a&w=0&h=I-7nnN6ch-w6CMATgExxA2WGPMhCRy7LSvHo6uneSVM=",
+      "menuId" : "c26",
+      "name" : "Corn Vegetable Soup",
+      "price" : "210"
+    },
+    "f128" : {
+      "description" : "A delicious cheesey potato soup made from Potatoes, cheddar cheese, milk, chicken bouillon & celery.",
+      "image" : "https://www.tasteofhome.com/wp-content/uploads/2018/01/Makeover-Potato-Cheese-Soup_exps22253_HWS133216B07_11_2bC_RMS.jpg?fit=700,1024",
+      "menuId" : "c26",
+      "name" : "Potato Cheese Soup",
+      "price" : "260"
+    },
+    "f129" : {
+      "description" : "Pumpkin Soup is made of Squash, pumpkin seeds, double cream, olive oil & chicken stock.",
+      "image" : "https://media.istockphoto.com/photos/pumpkin-and-carrot-soup-with-cream-and-parsley-picture-id541305426?b=1&k=20&m=541305426&s=170667a&w=0&h=75MtZeeK_0fAk3bN1Dk9pw4H4GEZAISIDotq1UGDFyk=",
+      "menuId" : "c26",
+      "name" : "Pumpkin Soup",
+      "price" : "540"
+    },
+    "f13" : {
+      "description" : "A fried sandwich containg deep fried fish with lemon, sauces and spices.",
+      "image" : "https://assets.epicurious.com/photos/5af1b6634692b76178e65769/master/w_1280,c_limit/Crispy-Fish-Sandwich-03052018.jpg",
+      "menuId" : "c11",
+      "name" : "Fish Sandwich",
+      "price" : "170"
+    },
+    "f130" : {
+      "description" : "Vegetable Soup contains Mixed vegetables, Apple cider vinegar, potato, tomato paste, red pepper flakes & carrots.",
+      "image" : "https://media.istockphoto.com/photos/vegetable-soup-picture-id1092632852?b=1&k=20&m=1092632852&s=170667a&w=0&h=XwfeyuhiozAVhx4O0ikSFfLLn-ld-s35aDLq_WeIz9I=",
+      "menuId" : "c26",
+      "name" : "Vegetable Soup",
+      "price" : "370"
+    },
+    "f132" : {
+      "description" : "Lassi is a regional name for buttermilk, a traditional dahi-based drink. Lassi is a blend of yogurt, water, spices and fruit. Namkeen lassi is similar to doogh, while sweet and mango lassis are like milkshakes. Lassi is infused with cannabis in the form of bhang.",
+      "image" : "https://1.bp.blogspot.com/-zJgpELWLIzU/Xqb-BwNHn8I/AAAAAAAAaVo/ojU52YXymPIs-zDbVMlr2WBvFUslhjHvQCK4BGAsYHg/w422-h640/lassi-recipe.jpg",
+      "menuId" : "c27",
+      "name" : "Lassi",
+      "price" : "150"
+    },
+    "f133" : {
+      "description" : "Most of us like sipping on doodh-wali-chai because of the flavour or just out of habit. Adding milk in tea looks like a perfect option.",
+      "image" : "https://www.arla.com/4a605a/globalassets/arla-global/milk/open-your-senses/tea/images/open_your_senses_tea-split_deck-tea-latte.jpg?preset=half-mobile",
+      "menuId" : "c27",
+      "name" : "Tea with Milk",
+      "price" : "60"
+    },
+    "f134" : {
+      "description" : "Rooh Afza called as refresher of the soul. It contains Rooh afza syrup, sabja seeds, sugar & ice cubes.",
+      "image" : "https://media.istockphoto.com/photos/ruh-rooh-afza-is-a-nonalcoholic-concentrated-sweet-squash-known-as-picture-id985546672?b=1&k=20&m=985546672&s=170667a&w=0&h=irXPfE68oEyNdyOES_HP0JQdC46aIBWWzlHOB2EQG2Y=",
+      "menuId" : "c27",
+      "name" : "Rooh Afza",
+      "price" : "90"
+    },
+    "f135" : {
+      "description" : "Rabri Doodh contains Condensed milk, milk powder, cream, almonds, Pistachio, jaggery & sugar.",
+      "image" : "https://i.tribune.com.pk/media/images/1409909-image-1494814908/1409909-image-1494814908.jpg",
+      "menuId" : "c27",
+      "name" : "Rabri Doodh",
+      "price" : "140"
+    },
+    "f136" : {
+      "description" : "A falooda is a cold dessert made with noodles. Traditionally it is made by mixing rose syrup, vermicelli, and sweet basil seeds with milk, often served with ice cream.",
+      "image" : "https://www.cookwithkushi.com/wp-content/uploads/2019/06/IMG_3841_.jpg",
+      "menuId" : "c27",
+      "name" : "Falooda",
+      "price" : "210"
+    },
+    "f137" : {
+      "description" : "Lemon soda is a blend of lemon juice with icecubes, salt, sugar and chilled soda. It is a carbonated soft drink made with lemon juice.",
+      "image" : "https://media.istockphoto.com/photos/mason-jar-glasses-of-homemade-lemonade-on-rustic-wood-picture-id537228258?b=1&k=20&m=537228258&s=170667a&w=0&h=wPGOTUvELteen_ol4OYrgR6hHi0su39-63Jeri5EOqw=",
+      "menuId" : "c27",
+      "name" : "Lemon Soda",
+      "price" : "140"
+    },
+    "f138" : {
+      "description" : "Lemon Tea is a refreshing tea where lemon juice is added in black or green tea. It soothes the throat, prevents cough and congestion, and helps in weight loss.",
+      "image" : "https://5.imimg.com/data5/VP/DK/WV/SELLER-1494947/lemon-tea-500x500.jpg",
+      "menuId" : "c27",
+      "name" : "Tea With Lemon",
+      "price" : "70"
+    },
+    "f139" : {
+      "description" : "Grape juice is obtained from crushing and blending grapes into a liquid. The sugars in grape juice allow it to be used as a sweetener or vinegar.",
+      "image" : "https://media.istockphoto.com/photos/grape-juice-picture-id171252820?b=1&k=20&m=171252820&s=170667a&w=0&h=pcN-k6bAHQvJgzYaO8YwYcxaajWwzluYWOs-SLD-4fQ=",
+      "menuId" : "c27",
+      "name" : "Grape Juice",
+      "price" : "340"
+    },
+    "f14" : {
+      "description" : "A sandwich containing slighty fried vegetables like capsicums, carrots, potatoes and cucumber with spices and sauces.",
+      "image" : "https://static.toiimg.com/thumb/60057435.cms?imgsize=619324&width=509&height=340",
+      "menuId" : "c11",
+      "name" : "Vegetable Sandwich",
+      "price" : "180"
+    },
+    "f140" : {
+      "description" : "Lemon water is the juice of the lemon fruit combined with water and drunk hot or cold, with additions such as lemon zest, honey, mint or spices like turmeric or cayenne pepper.",
+      "image" : "https://media.istockphoto.com/photos/glass-of-water-with-fresh-lemon-juice-picture-id641891956?b=1&k=20&m=641891956&s=170667a&w=0&h=KTbNb78LhPubdNf-mhQypsHcOTWSLE831LOMpgbW-qc=",
+      "menuId" : "c27",
+      "name" : "Lemon Water",
+      "price" : "120"
+    },
+    "f141" : {
+      "description" : "Mineral water helps keep your heart healthy and working properly. It's a clear, fresh water.",
+      "image" : "https://foodandnutrition.org/wp-content/uploads/The-Latest-in-Bottled-Water-Trends.jpg",
+      "menuId" : "c27",
+      "name" : "Mineral Water",
+      "price" : "60"
+    },
+    "f142" : {
+      "description" : "A sweet, carbonated cola with little mouthfeel or aftertaste. Coca Cola is less harsh than Pepsi, and has a vanilla taste which is not found in Pepsi. There are also lesser tastes of cinnamon and nutmeg.",
+      "image" : "https://images.unsplash.com/photo-1624552184280-9e9631bbeee9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNvY2ElMjBjb2xhfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "menuId" : "c27",
+      "name" : "Coca Cola",
+      "price" : "90"
+    },
+    "f143" : {
+      "description" : "Fanta is a brand of fruit-flavored carbonated soft drinks.",
+      "image" : "https://i.pinimg.com/736x/12/03/bc/1203bc70590271c0fcfb9ce798a370a2.jpg",
+      "menuId" : "c27",
+      "name" : "Fanta",
+      "price" : "80"
+    },
+    "f144" : {
+      "description" : "Sprite is a colorless, lemon and lime-flavored soft drink.",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_L1U4hgBUBJtDsbQJD6vS1lobcgwl3mRAXw&usqp=CAU",
+      "menuId" : "c27",
+      "name" : "Sprite",
+      "price" : "85"
+    },
+    "f145" : {
+      "description" : "Apple juice is a fruit juice made by the maceration and pressing of an apple. Apple juice mainly contains Apples, cinnamon & sugar.",
+      "image" : "https://media.istockphoto.com/photos/glass-of-juice-and-carafe-of-fresh-apple-juice-and-organic-apples-on-picture-id1328277828?b=1&k=20&m=1328277828&s=170667a&w=0&h=yo1UD921vwJWFqYZdknFDaJVJzqsn6noBGlW6cjEgCk=",
+      "menuId" : "c27",
+      "name" : "Apple Juice",
+      "price" : "160"
+    },
+    "f146" : {
+      "description" : "Sooji or semolina halwa is roasted in clarified butter or ghee and is cooked with water and ghee. Sometimes adding milk instead of water make it rich & sometimes it contains a mixture of water and milk.",
+      "image" : "https://www.felicityplus.com/wp-content/uploads/2019/04/suji-halwa-720x720.jpg",
+      "menuId" : "c28",
+      "name" : "Halwa",
+      "price" : "150"
+    },
+    "f147" : {
+      "description" : "Barfi or burfi is a basic fudge made from full fat milk, sugar and ghee. A thick consistency of barfi was pressed down in a tray, garnished with nuts and cut to squares and rectangles called barfi.",
+      "image" : "https://cdn.shopify.com/s/files/1/0038/7579/9155/products/bilal_191__preview.jpg?v=1594247282",
+      "menuId" : "c28",
+      "name" : "Barfi",
+      "price" : "160"
+    },
+    "f148" : {
+      "description" : "Gulab jamun is a milk-solid-based sweet, a type of mithai popular as national dessert of Pakistan.",
+      "image" : "https://media.istockphoto.com/photos/gulab-jamun11-picture-id521803129?b=1&k=20&m=521803129&s=170667a&w=0&h=tCqSAFuFRElC3jsUJP_416zWMCoi6dV_i985t1YWF5g=",
+      "menuId" : "c28",
+      "name" : "Gulab Jamun",
+      "price" : "160"
+    },
+    "f149" : {
+      "description" : "Ras Malai an amazing sweet dish, which is super-soft and is enjoyed with saffron milk. Ras malai consists of flattened balls of chhena soaked in malai (clotted cream) flavoured with cardamom. Milk is boiled and a bit of vinegar or lime juice is added to split it.",
+      "image" : "https://media.istockphoto.com/photos/rasmalai-a-bengali-dessert-with-paneer-cheese-picture-id514481051?b=1&k=20&m=514481051&s=170667a&w=0&h=LOl7eK362iFZp89F0wHggpWourAJ3X0teQDUxRYb0hI=",
+      "menuId" : "c28",
+      "name" : "Ras Malai",
+      "price" : "190"
+    },
+    "f15" : {
+      "description" : "A Grilled Sandwich containing Boneless chicken breast, Red bell pepper, white bread, butter, lettuce and green pepper.",
+      "image" : "https://media.istockphoto.com/photos/grilled-sandwich-with-a-cappuccino-picture-id1150728025?b=1&k=20&m=1150728025&s=170667a&w=0&h=fYMz2-6WoYPiREVSlUJsN0sr5CemeSaarfkGp-NUpfg=",
+      "menuId" : "c11",
+      "name" : "Grilled Chicken Sandwich",
+      "price" : "210"
+    },
+    "f150" : {
+      "description" : "Simply delicious, comforting, creamy & rich, kheer is a perfect dessert anytime you crave for something sweet. Kheer contains Basmati rice, saffron, golden raisins, sugar, cashews, rose water, sweet, nuts & blanched almonds.",
+      "image" : "https://media.istockphoto.com/photos/closeup-of-creamy-sabudana-kheer-garnished-with-dry-fruits-indian-picture-id1317649946?b=1&k=20&m=1317649946&s=170667a&w=0&h=m0YqmGrZfUswImH03fTwbKtLdD2AXvnJGEGVHzK5LOQ=",
+      "menuId" : "c28",
+      "name" : "Kheer",
+      "price" : "140"
+    },
+    "f151" : {
+      "description" : "Halwa Puri is one unique comfort food containing Puri, halwa, chapati flour, mixed nuts, coarse semolina.",
+      "image" : "https://www.brandsynario.com/wp-content/uploads/2021/07/BB-Halwa-Puri-696x418.jpg",
+      "menuId" : "c28",
+      "name" : "HalwaPuri",
+      "price" : "120"
+    },
+    "f152" : {
+      "description" : "Jalebi a popular sweet snack. Jalebi is a spiral shaped crisp & juicy sweet made with all-purpose flour, gram flour and sugar syrup.",
+      "image" : "https://media.istockphoto.com/photos/bread-pakora-picture-id1159362325?b=1&k=20&m=1159362325&s=170667a&w=0&h=lWDjSwax5TKq2lvKr2sGeqNSLwsYjTXBs_Fcgft41Ts=",
+      "menuId" : "c28",
+      "name" : "Jalebi",
+      "price" : "120"
+    },
+    "f153" : {
+      "description" : "Tutti frutti is a colorful confectionery containing various chopped and usually candied fruits, or an artificial or natural flavouring simulating the combined flavour of many different fruits.",
+      "image" : "https://www.wcrf-uk.org/wp-content/uploads/2021/06/Tutti-frutti-surprise-15-R-SQ.jpg",
+      "menuId" : "c28",
+      "name" : "Tutti Frutti Dessert",
+      "price" : "190"
+    },
+    "f154" : {
+      "description" : "Doodh Dulari is one of popular Pakistani Food. It is combination of thick milk, colored vermicelli & cham cham.",
+      "image" : "https://t3.ftcdn.net/jpg/02/28/07/00/360_F_228070014_DsWegxro9gn6RT8X9zXgw8KbVEyRUtNY.jpg",
+      "menuId" : "c28",
+      "name" : "Doodh Dulari",
+      "price" : "210"
+    },
+    "f155" : {
+      "description" : "Chocolate brownie or simply a brownie is a square or rectangular chocolate baked confection. Brownies are fudgy or cakey, depending on their density. Brownies often, but not always, have a glossy skin on their upper crust.",
+      "image" : "https://media.istockphoto.com/photos/brownies-picture-id187105441?b=1&k=20&m=187105441&s=170667a&w=0&h=SziVgxGBKCrrwu93PMjrDNwrHfA5Zkm50pZdBZdbtL8=",
+      "menuId" : "c28",
+      "name" : "Chocolate Browine",
+      "price" : "380"
+    },
+    "f156" : {
+      "description" : "Fruit trifle is usually made up of various layers, normally there is a cake which lines the bottom of the bowl, followed by fruit, jelly, custard, or pudding mixture, jelly, more fruit, and topped off with a generous layer of freshly whipped cream.",
+      "image" : "https://media.istockphoto.com/photos/sweet-homemade-strawberry-trifle-dessert-picture-id873058070?b=1&k=20&m=873058070&s=170667a&w=0&h=_PWiKzmgBNlYkJbom2fChBHG_lhnPh_pDb9wewaC0pk=",
+      "menuId" : "c28",
+      "name" : "Fruit Trifle",
+      "price" : "510"
+    },
+    "f157" : {
+      "description" : "Shahi Tukra (with Condensed Milk), a popular hyderabadi special sweet is a royal treat to taste buds at anytime. Shahi tukda a dessert made with ghee fried bread, thickened sweetened milk, saffron and nuts.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/mughlai-shahi-tukday_12241.jpg",
+      "menuId" : "c28",
+      "name" : "Shahi Tukday",
+      "price" : "590"
+    },
+    "f158" : {
+      "description" : "Ice-cream flavoured with the King of Fruits! Mangoes impart a luscious creamy texture and rich flavour to this delicious frozen dessert. Mango Ice Cream contains Whipping cream, Sweetened condensed milk, canned mango pulp & mango.",
+      "image" : "https://media.istockphoto.com/photos/almond-cookie-and-scoop-of-ice-cream-served-on-olive-wood-bowl-picture-id1351468782?b=1&k=20&m=1351468782&s=170667a&w=0&h=X0QsoHlhaC1Tn5PQioQ3SRz2zPmIkKDeEspmKK6r6y4=",
+      "menuId" : "c29",
+      "name" : "Mango Ice Cream",
+      "price" : "160"
+    },
+    "f159" : {
+      "description" : "Vanilla is frequently used to flavor ice cream. Vanilla ice cream, like other flavors of ice cream, is Smade by cooling a mixture made of cream, sugar, and vanilla above a container of ice and salt.",
+      "image" : "https://images.unsplash.com/photo-1560008581-09826d1de69e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmFuaWxsYSUyMGljZSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "menuId" : "c29",
+      "name" : "Vanilla Ice Cream",
+      "price" : "150"
+    },
+    "f16" : {
+      "description" : "A Sandwich of bread (traditionally toasted), sliced cooked poultry, ham or fried bacon, lettuce, tomato, chicken and mayonnaise.",
+      "image" : "https://media.istockphoto.com/photos/delicious-club-sandwich-picture-id499093352?b=1&k=20&m=499093352&s=170667a&w=0&h=8AXSV3BGefHRGdL8NnJLsTEP8P2f86wlmwsz2DfVB8Q=",
+      "menuId" : "c11",
+      "name" : "Club Sandwich",
+      "price" : "240"
+    },
+    "f160" : {
+      "description" : "Chocolate ice cream an ice cream with natural or artificial chocolate flavoring. It contains Sweetened condensed milk, brown sugar, cocoa powder, vanilla extract & fat cream.",
+      "image" : "https://www.daysoftheyear.com/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=675%2Cmetadata=none%2Conerror=redirect%2Cq=85%2Cwidth=1200/wp-content/uploads/chocolate-ice-cream-day1-scaled.jpg",
+      "menuId" : "c29",
+      "name" : "Chocolate Ice Cream",
+      "price" : "160"
+    },
+    "f161" : {
+      "description" : "We all love pistachios so much, we named this flavor twice! Features pistachio ice cream with lightly roasted pistachios. A classic fan favorite! containing Pistachio, double cream, ready made custard & almond extract.",
+      "image" : "https://thegreedyvegan.com/wp-content/uploads/2017/06/2017-June-8th-Pistachio-Ice-Cream-preview.jpg",
+      "menuId" : "c29",
+      "name" : "Pistachio Ice Cream",
+      "price" : "240"
+    },
+    "f162" : {
+      "description" : "Blackberry Ice Cream contains Heavy cream, lemon zest, fresh blackberries, white sugar & whole milk.",
+      "image" : "https://media.istockphoto.com/photos/homemade-mulberry-ice-cream-sorbet-in-bowl-close-up-picture-id1156245148?b=1&k=20&m=1156245148&s=170667a&w=0&h=L4tMJ4XSwyJe18CLI_IE1YIwatouUUDbxWsBWoXVE_4=",
+      "menuId" : "c29",
+      "name" : "Blackberry Ice Cream",
+      "price" : "260"
+    },
+    "f163" : {
+      "description" : "Lavender Ice Cream contains Whipping cream, milk & culinary lavender.",
+      "image" : "https://lh3.googleusercontent.com/-DtFoybUxZLemTwX8tnLkSoiyZnkdC9frWCnrWhqXGIVW4vmc4jpQkfU-k3j9c25kydLoIHWOTUhoQjPe_-PSec=w1920-h1080-c-rj-v1-e365",
+      "menuId" : "c29",
+      "name" : "Lavender Ice Cream",
+      "price" : "330"
+    },
+    "f164" : {
+      "description" : "Peppermint Ice Cream contains Crushed candy canes, heavy cream, peppermint extract, egg yolks & whole milk.",
+      "image" : "https://houseofnasheats.com/wp-content/uploads/2020/10/peppermint-ice-cream-10.jpg",
+      "menuId" : "c29",
+      "name" : "Peppermint Ice Cream",
+      "price" : "350"
+    },
+    "f165" : {
+      "description" : "Strawberry Ice Cream contains strawberries (fresh), milk, heavy cream, sugar & vanilla extract.",
+      "image" : "https://media.istockphoto.com/photos/raspberry-ice-cream-with-fresh-raspberries-picture-id1305136440?b=1&k=20&m=1305136440&s=170667a&w=0&h=Ivr-X_PZeOwJkdq4-Bn7g9XfJwP1_CdyQV-pEhu3x38=",
+      "menuId" : "c29",
+      "name" : "Strawberry Ice Cream",
+      "price" : "350"
+    },
+    "f166" : {
+      "description" : "Espresso coffee can be made with a wide variety of coffee beans and roast degrees.",
+      "image" : "https://media.istockphoto.com/photos/coffee-cup-picture-id1126871442?k=20&m=1126871442&s=612x612&w=0&h=WSNR3OvXcFwiRNsL6BVgvPD4cmJzDq686vCbo_YTH5I=",
+      "menuId" : "c30",
+      "name" : "Espresso",
+      "price" : "210"
+    },
+    "f167" : {
+      "description" : "A cappuccino is an espresso-based coffee drink and is prepared with steamed milk foam. Variations of the drink involve the use of cream instead of milk, using non-dairy milk substitutes and flavoring with cinnamon or chocolate powder.",
+      "image" : "https://cdn.leitesculinaria.com/wp-content/uploads/fly-images/233844/cappuccino-1200x1200-c.jpg.optimal.jpg",
+      "menuId" : "c30",
+      "name" : "Cappuccino",
+      "price" : "250"
+    },
+    "f168" : {
+      "description" : "A latte macchiato is milk marked with an espresso. latte macchiato is served in a tall glass and has distinctive layers between the foam, espresso and milk with the foam on top, espresso below the foam and milk at the bottom.",
+      "image" : "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/314D11A6-4457-4C70-A1BE-A6C25F597C18/Derivates/B362DC69-6AAA-43E1-AF51-184463E8551B.jpg",
+      "menuId" : "c30",
+      "name" : "Latte Macchiato",
+      "price" : "250"
+    },
+    "f169" : {
+      "description" : "Black coffee is a beverage made from roasted coffee beans. It Contains creamer, milk, sugar, or sweetener in coffee for making it creamy, which reduces the bitter flavor. Black coffee is also used as the base of many drinks, including cappuccinos, lattes, and macchiatos.",
+      "image" : "https://stylesatlife.com/wp-content/uploads/2020/01/black-coffee-benefits.jpg",
+      "menuId" : "c30",
+      "name" : "Black Coffee",
+      "price" : "250"
+    },
+    "f17" : {
+      "description" : "A Cheese sandwich that has been cooked on the grill long enough for the cheese to melt a little and the bread to get brown and a little crispy and healthy.",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTaZDW1877luW1mhPNOKyK2XmeYsGCkfM6w&usqp=CAU",
+      "menuId" : "c11",
+      "name" : "Grilled Cheese Sandwich",
+      "price" : "190"
+    },
+    "f170" : {
+      "description" : "Hot chocolate, also known as hot cocoa or drinking chocolate, is a heated drink consisting of shaved chocolate, melted chocolate or cocoa powder, heated milk or water, and usually a sweetener like whipped cream or marshmallows.",
+      "image" : "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aG90JTIwY2hvY29sYXRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "menuId" : "c30",
+      "name" : "Hot Chocolate",
+      "price" : "260"
+    },
+    "f171" : {
+      "description" : "Iced coffee is a coffee beverage served cold. It is prepared by brewing coffee normally and then serving it over ice or in cold milk, or by brewing the coffee cold. In hot brewing, sweeteners and flavoring may be added before cooling, as they dissolve faster.",
+      "image" : "https://media.istockphoto.com/photos/iced-cappuccino-or-latte-coffee-picture-id1296495203?b=1&k=20&m=1296495203&s=170667a&w=0&h=m3u-nXCrbaw_b9fhs64F4Z_RIOhVDc9KSwsrlOmmOro=",
+      "menuId" : "c30",
+      "name" : "Iced Coffee",
+      "price" : "270"
+    },
+    "f172" : {
+      "description" : "Chicken Wings contains Butter, flour, chicken wingettes, garlic powder & black pepper.",
+      "image" : "https://www.licious.in/blog/wp-content/uploads/2020/12/Fried-Chicken-Wing.jpg",
+      "menuId" : "c31",
+      "name" : "Chicken Wings",
+      "price" : "250"
+    },
+    "f173" : {
+      "description" : "A very popular fast food restaurant item. A chicken nugget consists of a small piece of deboned chicken meat that is breaded or battered, then deep-fried or baked.",
+      "image" : "https://media.istockphoto.com/photos/beer-battered-fish-bites-with-tarter-sauce-picture-id520326646?b=1&k=20&m=520326646&s=170667a&w=0&h=zHGfJElBKvsEY1e6-Mwz1CDgGvlKKhCbp6ddnknWnsM=",
+      "menuId" : "c31",
+      "name" : "Nuggets",
+      "price" : "250"
+    },
+    "f174" : {
+      "description" : "French fries, chips, finger chips, French-fried potatoes, or simply fries, are batonnet or allumette-cut deep-fried potatoes. They are prepared by cutting the potato into even strips, then drying and frying it, usually in a deep fryer.",
+      "image" : "https://media.istockphoto.com/photos/basket-of-famous-fast-food-french-fries-picture-id618214356?b=1&k=20&m=618214356&s=170667a&w=0&h=hBW1Ozw37xluDdo98v4U1JoRlU3elGRUIWFHmGUfmK8=",
+      "menuId" : "c31",
+      "name" : "French Fries",
+      "price" : "80"
+    },
+    "f175" : {
+      "description" : "Hot shot are chicken pieces marinated with spicy ingredients, battered and then finally fried. It tastes good with Chili sauce, chili garlic sauce & tomato sauce.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/chicken-hot-shot_714.jpg",
+      "menuId" : "c31",
+      "name" : "Hot Shots",
+      "price" : "390"
+    },
+    "f176" : {
+      "description" : "Chicken Sticks contains Skinless chicken breast, cheese sauce, wheat flour, tortilla chips & egg. A perfect fast food!",
+      "image" : "https://kfoods.com/images1/newrecipeicon/fry-chicken-sticks_6134.jpg",
+      "menuId" : "c31",
+      "name" : "Chicken Sticks",
+      "price" : "130"
+    },
+    "f177" : {
+      "description" : "BBQ Paratha Roll contains Tandoori chicken, oyster sauce, bbq, cream, paratha roll, Chicken tikka masala, tandoori masala, lemon & ginger garlic.",
+      "image" : "https://gkpizzahut.com/wp-content/uploads/2021/09/Chicken-Paratha-CheeseRoll-300x250.jpg",
+      "menuId" : "c32",
+      "name" : "BBQ Paratha Roll",
+      "price" : "112"
+    },
+    "f178" : {
+      "description" : "Everyone's favourite Spicy Paratha Roll contains Diced chicken breast, cabbage, yogurt, peppers, cucumber & Green chili paste.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/hot-n-spicy-chicken-roll_14526.jpg",
+      "menuId" : "c32",
+      "name" : "Spicy Paratha Roll",
+      "price" : "112"
+    },
+    "f179" : {
+      "description" : "Cheese Paratha Roll is a delicious and tasty paratha. Mouth watering Cheese Paratha Roll. Try it and kill your hunger. It contains Whole wheat flour, paratha, green chilies & clarified butter.",
+      "image" : "https://becomechefathome.com/wp-content/uploads/2020/12/Screenshot-313.png",
+      "menuId" : "c32",
+      "name" : "Cheese Paratha Roll",
+      "price" : "128"
+    },
+    "f18" : {
+      "description" : "A sandwich containing Roast beef, fried onions, cheddar cheese and brioche bun.",
+      "image" : "https://www.eatthis.com/wp-content/uploads/sites/4/2019/01/low-calorie-roast-beef-cheddar-sandwiches-horseradish-mayo.jpg?quality=82&strip=1&resize=640%2C360",
+      "menuId" : "c11",
+      "name" : "Roast Beef Sandwich",
+      "price" : "200"
+    },
+    "f180" : {
+      "description" : "Raita a side dish made from dahi together with raw or cooked vegetables, more seldom fruit, or in case of boondi raita, with fried droplets of batter made from besan. The closest approximation in western cuisine is a side dish or dip, or a cooked salad.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/raita-by-chef-fauzia_5118.jpg",
+      "menuId" : "c33",
+      "name" : "Raita",
+      "price" : "17"
+    },
+    "f181" : {
+      "description" : "A salad is a dish consisting of mixed, mostly natural ingredients with at least one raw ingredient.",
+      "image" : "https://media.istockphoto.com/photos/vegetable-mix-salad-with-tomatoes-and-sauce-on-a-concrete-background-picture-id1299960189?b=1&k=20&m=1299960189&s=170667a&w=0&h=1JJSBDlbIt1g9T3oI3YkYmlmAY5_-mReFx-eOZzQnfc=",
+      "menuId" : "c33",
+      "name" : "Salad",
+      "price" : "25"
+    },
+    "f182" : {
+      "description" : "Ketchup or catsup is a type of table condiment with a sweet and tangy flavor typically refers to tomato ketchup. Original ketchup used egg whites, mushrooms, oysters, grapes, mussels, or walnuts, among other ingredients.",
+      "image" : "https://media.istockphoto.com/photos/organic-red-tomato-ketchup-picture-id500220905?b=1&k=20&m=500220905&s=170667a&w=0&h=o3_rTXY_wJqlz2QAsk0z5Z6auLjBtnFSUeP_KUPPUog=",
+      "menuId" : "c33",
+      "name" : "Ketchup",
+      "price" : "15"
+    },
+    "f183" : {
+      "description" : "Naan is a leavened, oven-baked or tawa-fried flatbread.",
+      "image" : "https://arbuz.com/wp-content/uploads/2019/04/Easy-Naan-Recipe-680x453.jpg",
+      "menuId" : "c33",
+      "name" : "Naan",
+      "price" : "16"
+    },
+    "f184" : {
+      "description" : "Chocolate cake or chocolate gâteau is a cake flavored with melted chocolate, cocoa powder, or both. Chocolate cake contains Cream cheese, unsweetened cocoa powder & powdered sugar.",
+      "image" : "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hvY29sYXRlJTIwY2FrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "menuId" : "c34",
+      "name" : "Chocolate Cake",
+      "price" : "1000"
+    },
+    "f185" : {
+      "description" : "Black Forest gâteau or Black Forest cake is a chocolate sponge cake with a rich cherry filling. Black Forest Cake consists of several layers of chocolate sponge cake sandwiched with whipped cream and cherries.",
+      "image" : "https://media.istockphoto.com/photos/image-of-sliced-black-forest-gateau-on-cake-stand-with-grey-muslin-picture-id1329587431?b=1&k=20&m=1329587431&s=170667a&w=0&h=GK1is7qbGyf6O4ex79da80PgBcxekN_KUZt06KG1tDI=",
+      "menuId" : "c34",
+      "name" : "Black Forest Cake",
+      "price" : "1000"
+    },
+    "f186" : {
+      "description" : "Ferrero Rocher Cake is made of Hazelnut Sponge Cake layers, then sandwiched with Nutella Buttercream and some wafers for the crunch.",
+      "image" : "https://media.istockphoto.com/photos/chocolate-dessert-picture-id1056414312?b=1&k=20&m=1056414312&s=170667a&w=0&h=2-7bDF22gFDZd_dHrtmBci38w7Sp0idL17XqYcTzKY0=",
+      "menuId" : "c34",
+      "name" : "Ferrero Rocher Cake",
+      "price" : "1000"
+    },
+    "f187" : {
+      "description" : "Blueberry cheesecake base is rich yet light which makes for a perfect treat. Plus, its top is generously filled with the blueberry preserve, and real bits of blueberries.",
+      "image" : "https://media.istockphoto.com/photos/blueberry-cheesecake-picture-id1295410046?b=1&k=20&m=1295410046&s=170667a&w=0&h=mdFzN4qevY1cITYh-XGHPk8xabJ96P4GQu2y4iDhgYI=",
+      "menuId" : "c34",
+      "name" : "Blueberry Cheesecake",
+      "price" : "1000"
+    },
+    "f188" : {
+      "description" : "Cravity’s own version of the traditional eggless black forest. Cherries are replaced with blueberries on the inside while the outer coating is made with traditional French chocolate.",
+      "image" : "https://cdn.shopify.com/s/files/1/0010/5070/5979/products/Cake_homepage-02_590x.jpg?v=1541083909",
+      "menuId" : "c34",
+      "name" : "Cravity Decadence Cake",
+      "price" : "1000"
+    },
+    "f189" : {
+      "description" : "Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest, layer consists of a mixture of a soft, fresh cheese, eggs, and sugar. A bottom layer, most often consists of a crust or base made from crushed cookies, graham crackers, pastry, or sometimes sponge cake.",
+      "image" : "https://allaboutcakesblog.files.wordpress.com/2018/09/b9f16d9f-523f-4951-aa1b-4b8c086a6b4b-3156-0000029d6c3e42f8.jpg",
+      "menuId" : "c34",
+      "name" : "Cheesecake",
+      "price" : "1000"
+    },
+    "f19" : {
+      "description" : "A Burger containing Chicken breast, corn flour, lettuce, mustard paste, vinegar, red onion, soy sauce and cucumber.",
+      "image" : "https://hamariweb.com/recipes/images/recipeimages/3369.jpg",
+      "menuId" : "c12",
+      "name" : "Zinger Burger",
+      "price" : "200"
+    },
+    "f190" : {
+      "description" : "Nothing is better than a slice of the apple and walnut cake during a cold winter day with a hot beverage. Apple cake is prepared by using fresh apples, crunchy walnuts and lightly kissed with cinnamon, every bite is an exhilarating experience.",
+      "image" : "https://allaboutcakesblog.files.wordpress.com/2018/09/1bba1105-8605-4dbd-9209-d844d61d80a2-3156-0000029c57d22d0e.jpg",
+      "menuId" : "c34",
+      "name" : "Apple Cake",
+      "price" : "1000"
+    },
+    "f191" : {
+      "description" : "So creamy it'll surely melt into your mouth! Mainly contains Butter, eggs, all purpose flour & vanilla extract.",
+      "image" : "https://pixfeeds.com/images/misc/recipes/cakes/1280-77688353.jpg",
+      "menuId" : "c34",
+      "name" : "Creamy Cake",
+      "price" : "1000"
+    },
+    "f192" : {
+      "description" : "Almond adds texture and flavor on cake. It is made of Almond flour, greek yogurt, fresh orange juice, almond extract & powdered sugar.",
+      "image" : "http://cdn.shopify.com/s/files/1/0063/6348/0177/products/image_450x_crop_center_0611096f-b1d7-4b71-b851-5c3838b77990_1024x1024.jpg?v=1555592570",
+      "menuId" : "c34",
+      "name" : "Almond Cake",
+      "price" : "1000"
+    },
+    "f193" : {
+      "description" : "Honey Cake is a gravity-defying layered cake with notes of honey and caramel. It is decadent, beautiful and absolutely delicious.",
+      "image" : "https://media.istockphoto.com/photos/honey-cake-with-almonds-on-white-plate-picture-id910628212?b=1&k=20&m=910628212&s=170667a&w=0&h=ILhNRd1W6s0IPQ1hPOGi0Rmbu-v7M4jk3ZtpBLO4vhU=",
+      "menuId" : "c34",
+      "name" : "Honey Cake",
+      "price" : "1000"
+    },
+    "f20" : {
+      "description" : "A Burger containing Ranch dressing, chicken breasts, loose leaf, salsa sauce, cheese slices and black pepper.",
+      "image" : "https://evakitchen.pk/wp-content/uploads/2017/10/chicken_cheese_burger-1.jpg",
+      "menuId" : "c12",
+      "name" : "Chicken Cheese Burger",
+      "price" : "170"
+    },
+    "f21" : {
+      "description" : "A Burger containing Greek yogurt, chicken breasts, little gem lettuce and lemon.",
+      "image" : "https://i.ytimg.com/vi/aHE8cKtoo6w/hqdefault.jpg",
+      "menuId" : "c12",
+      "name" : "Chicken Tikka Burger",
+      "price" : "150"
+    },
+    "f22" : {
+      "description" : "A Burger containing Ground beef chuck, sour cream, bell peppers, pepper jack cheese and hot sauce.",
+      "image" : "https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/foodservice/desktop%20images/2019_df_fs_cucomm_fajita-burger_900x600.jpg?ext=.jpg",
+      "menuId" : "c12",
+      "name" : "Fajita Burger",
+      "price" : "150"
+    },
+    "f23" : {
+      "description" : "A Burger containing Tamarind sauce, shami, onion rings, fresh green chilies, Beef, salad, ketchup, egg and burger bun.",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvq9j4jeo3Vgttu1VwgvPJrKcTQb7PyDbtg&usqp=CAU",
+      "menuId" : "c12",
+      "name" : "Shami Burger",
+      "price" : "50"
+    },
+    "f24" : {
+      "description" : "A Burger containing Fried mushrooms, egg, processed cheese and hamburger.",
+      "image" : "https://www.nanosrecipes.com/wp-content/uploads/2015/06/Shami-Kebab-Burger_28-150x150.jpg",
+      "menuId" : "c12",
+      "name" : "Egg Burger",
+      "price" : "50"
+    },
+    "f25" : {
+      "description" : "A Burger containing Rolls, beef steak mince, olive oil, ketchup and egg.",
+      "image" : "https://media.istockphoto.com/photos/junk-food-homemade-beef-burgers-on-vintage-wooden-background-picture-id1302436326?b=1&k=20&m=1302436326&s=170667a&w=0&h=MvSjb8R4lOJT_NteIiZxfIoZvXIkKucRUVeViFBLVN4=",
+      "menuId" : "c12",
+      "name" : "Beef Burger",
+      "price" : "90"
+    },
+    "f26" : {
+      "description" : "A Burger containing vegetables, whole grains, and legumes (like beans or lentils), mushrooms and tomato paste.",
+      "image" : "https://images.unsplash.com/photo-1477259004500-ce2463b979ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dmVnZXRhYmxlJTIwYnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "menuId" : "c12",
+      "name" : "Vegetable Burger",
+      "price" : "90"
+    },
+    "f27" : {
+      "description" : "A Burger containing Cream cheese, sun dried tomatoes, ground chicken and butter.",
+      "image" : "https://i.pinimg.com/564x/4c/9d/e6/4c9de633cf53536569e0e55eb7e98984.jpg",
+      "menuId" : "c12",
+      "name" : "Chicken Alfredo Burger",
+      "price" : "165"
+    },
+    "f28" : {
+      "description" : "A Burger containing fish fried pieces, creamy cheese, beetroot relish, suaces, olive oil and bread",
+      "image" : "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_500/https://www.americangarden.us/wp-content/uploads/2017/10/Fish-burger.jpg",
+      "menuId" : "c12",
+      "name" : "Fish Burger",
+      "price" : "90"
+    },
+    "f29" : {
+      "description" : "A Burger containing Beef scotch fillet, swiss cheese, beetroot relish, olive oil and bread.",
+      "image" : "https://afeliaskitchen.com/wp-content/uploads/2016/06/Chicken-Steak-Burger-825x510.jpg",
+      "menuId" : "c12",
+      "name" : "Steak Burger",
+      "price" : "110"
+    },
+    "f30" : {
+      "description" : "A Burger containing Saltine crackers, beef, malted barley flour, corn syrup, mustard and soy sauce.",
+      "image" : "https://assets.epicurious.com/photos/57c5c6d9cf9e9ad43de2d96e/master/pass/the-ultimate-hamburger.jpg",
+      "menuId" : "c12",
+      "name" : "HamBurger",
+      "price" : "120"
+    },
+    "f31" : {
+      "description" : "A Pizza containing Pizza dough, Soy sauce, mushrooms, pizza sauce, chilli sauce, salsa and green bell pepper.",
+      "image" : "https://shop.asanhai.pk/public/storage/media/X68BlfnzUdS0O6mlOZv1Qx9HoFBmKlVf8OM9ywsg.jpeg",
+      "menuId" : "c13",
+      "name" : "Fajita Pizza",
+      "price" : "600"
+    },
+    "f32" : {
+      "description" : "A Pizza containing Honey butter, pizza dough, tomato sauce, pepperoni and pizza sauce.",
+      "image" : "https://media.istockphoto.com/photos/hot-homemade-pepperoni-pizza-picture-id521403691?b=1&k=20&m=521403691&s=170667a&w=0&h=CgTHeZO7pZsmL4dgxlpq4AaAGaeBYNA5gRCH9u_3R58=",
+      "menuId" : "c13",
+      "name" : "Pepperoni Pizza",
+      "price" : "500"
+    },
+    "f33" : {
+      "description" : "A Pizza containing Boneless chicken breast, pizza crust, pepperoncini peppers, Barbecue sauce and mozzarella cheese.",
+      "image" : "https://media.istockphoto.com/photos/chicken-pizza-picture-id489809469?b=1&k=20&m=489809469&s=170667a&w=0&h=vIrp03SVOvXXN_ZXNwHexm93ThqHQigy7CzWnmRVeA4=",
+      "menuId" : "c13",
+      "name" : "BBQ Chicken Pizza",
+      "price" : "750"
+    },
+    "f34" : {
+      "description" : "A Pizza containing Chicken, pizza dough, pizza sauce, black pepper, food colour and chilli sauce.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/hot-and-spicy-pizza_4958.jpg",
+      "menuId" : "c13",
+      "name" : "Hot and Spicy Pizza",
+      "price" : "550"
+    },
+    "f35" : {
+      "description" : "A Pizza containing Pizza dough, pizza crust, pizza sauce, olive oil and instant yeast.",
+      "image" : "https://media.istockphoto.com/photos/homemade-pineapple-and-ham-hawaiian-pizza-picture-id537640710?b=1&k=20&m=537640710&s=170667a&w=0&h=iJs3ajTyZpg2KZqId7meMQ6j8GQZVC935DDCbUw0gbE=",
+      "menuId" : "c13",
+      "name" : "Hawaiian Pizza",
+      "price" : "550"
+    },
+    "f36" : {
+      "description" : "A Pizza containing Ground beef, refried beans, sour cream, cherry, best pizza dough and pickled onions.",
+      "image" : "https://media.istockphoto.com/photos/mexico-pizza-picture-id183342118?b=1&k=20&m=183342118&s=170667a&w=0&h=-c863PQMYUTcOvWUK51HyBIUlhNjIX_aUmmiLA1tN5c=",
+      "menuId" : "c13",
+      "name" : "Mexican Pizza",
+      "price" : "650"
+    },
+    "f37" : {
+      "description" : "A Pizza containing Pizza sauce, bread flour, mozzarella cheese, olive oil, Tomato sauce, red pepper flakes (Pizza baked in a deep dish pan or sheet pan).",
+      "image" : "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/June-07/Homemade_Pan_Pizza_with_Perfectly_Crispy_Crust-1.jpg",
+      "menuId" : "c13",
+      "name" : "Pan Pizza",
+      "price" : "350"
+    },
+    "f38" : {
+      "description" : "A Pizza containing Smoked mozzarella cheese, meatballs and caramelized onions.",
+      "image" : "https://cookingwithayeh.com/wp-content/uploads/2021/08/Italian-Pizza-1-683x1024.jpg",
+      "menuId" : "c13",
+      "name" : "Italian Pizza",
+      "price" : "850"
+    },
+    "f39" : {
+      "description" : "A Pizza containing Boneless chicken breast, whole wheat, low fat yogurt, cheese and mushrooms.",
+      "image" : "https://media.istockphoto.com/photos/homemade-indian-chicken-tikka-masala-pizza-picture-id1340589333?b=1&k=20&m=1340589333&s=170667a&w=0&h=rQaaNq-2klpZXcZ26amIfELKxq78-9S79FycY7Kzu28=",
+      "menuId" : "c13",
+      "name" : "Chicken Tikka Pizza",
+      "price" : "650"
+    },
+    "f40" : {
+      "description" : "A Pizza containing Sauce, bread flour, red pepper flakes and mozzarella cheese.",
+      "image" : "https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/23449_sfs-thick-crust-sicilian-style-pizza-33",
+      "menuId" : "c13",
+      "name" : "Sicilian Pizza",
+      "price" : "550"
+    },
+    "f41" : {
+      "description" : "Hot and Spicy Pizza containg Ground italian sausage, sour cream, ricotta, tomato paste and red chilli.",
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-s/07/6c/ed/f4/pizza-house.jpg",
+      "menuId" : "c13",
+      "name" : "Sizzling Hot Pizza",
+      "price" : "500"
+    },
+    "f42" : {
+      "description" : "A Pizza containing Pizza dough, corn flour, fry fish pieces, mushrooms and pizza sauce.",
+      "image" : "https://www.masala.tv/wp-content/uploads/2016/01/Spicy-Fish-Pizza-Gulzar-Hussain.jpg",
+      "menuId" : "c13",
+      "name" : "Fish Pizza",
+      "price" : "750"
+    },
+    "f43" : {
+      "description" : "A Pasta containing Skinless chicken breasts, rigatoni pasta, double cream, red pepper and tomato sauce.",
+      "image" : "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/128650.jpg",
+      "menuId" : "c14",
+      "name" : "Fajita Pasta",
+      "price" : "200"
+    },
+    "f44" : {
+      "description" : "A Pasta containing Skinless chicken breasts, linguine pasta, chicken broth and cream cheese.",
+      "image" : "https://hips.hearstapps.com/hmg-prod/images/delish-chicken-florentine-pasta-horizontal-1534804793.jpg",
+      "menuId" : "c14",
+      "name" : "Chicken Florentine Pasta",
+      "price" : "250"
+    },
+    "f45" : {
+      "description" : "A Pasta containing Pasta, red bell peppers, olive oil, red chili and mixed herbs.",
+      "image" : "https://media.istockphoto.com/photos/tagliatelle-in-bolognese-sauce-with-fresh-tomato-picture-id1131995342?b=1&k=20&m=1131995342&s=170667a&w=0&h=_U7g5t7anwscVDAwCHLRLGM_sWXXa_OwjLchZwTV8tk=",
+      "menuId" : "c14",
+      "name" : "Red Sauce Pasta",
+      "price" : "550"
+    },
+    "f46" : {
+      "description" : "A Pasta containing Chicken sausage, pasta, marinara sauce and heavy cream.",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94-lAmlSJmAoSIQ1N6g3tUcqySnpikvrZpg&usqp=CAU",
+      "menuId" : "c14",
+      "name" : "Chicken Sausage Pasta",
+      "price" : "400"
+    },
+    "f47" : {
+      "description" : "lasagna a rectangular shaped flat sheet of pasta containing Mild italian sausage, penne pasta, tomato sauce and pasta sauce.",
+      "image" : "https://media.istockphoto.com/photos/spinach-and-ricotta-lasagna-picture-id508652097?b=1&k=20&m=508652097&s=170667a&w=0&h=DVoe9xrbRD_JBmigKUC2_D6FLHKlIoLIl3YAkZJ7A6Y=",
+      "menuId" : "c14",
+      "name" : "Lasagne",
+      "price" : "650"
+    },
+    "f48" : {
+      "description" : "A Pasta containing Spaghetti, red pepper, parmesan cheese and olive oil.",
+      "image" : "https://thefoodellers.com/wp-content/uploads/2019/05/pasta-pomodoro-recipe-italian-1024x768.jpeg",
+      "menuId" : "c14",
+      "name" : "Italian Pasta",
+      "price" : "350"
+    },
+    "f49" : {
+      "description" : "A Pasta containing Penne pasta, cherry tomatoes, portabella mushrooms and mixed vegetables.",
+      "image" : "https://www.carveyourcraving.com/wp-content/uploads/2019/05/Vegan-Pasta-primavera-with-roasted-vegetables.jpg",
+      "menuId" : "c14",
+      "name" : "Vegetable Pasta",
+      "price" : "450"
+    },
+    "f50" : {
+      "description" : "A Pasta containing Penne pasta, spinach, cream, parmesan cheese, butter and italian seasoning.",
+      "image" : "https://lilluna.com/wp-content/uploads/2017/10/penne-pasta-resize-3-400x400.jpg",
+      "menuId" : "c14",
+      "name" : "Creamy Pasta",
+      "price" : "450"
+    },
+    "f51" : {
+      "description" : "A Pasta containing Fresh mixed vegetables, mushrooms, lemon, heavy cream, olive oil and red bell pepper.",
+      "image" : "https://content.hy-vee.com/remote.axd/3f4c2184e060ce99111b-f8c0985c8cb63a71df5cb7fd729edcab.ssl.cf2.rackcdn.com/media/15338/thatssmart-veggiealfredopasta.jpg?v=1&mode=crop&width=800&height=640&upscale=false",
+      "menuId" : "c14",
+      "name" : "Vegetable Alfredo Pasta",
+      "price" : "350"
+    },
+    "f52" : {
+      "description" : "A Pasta containing Penne pasta, bbq sauce, bacon, chicken breasts, red pepper and cream cheese.",
+      "image" : "https://www.thereciperebel.com/wp-content/uploads/2017/06/bbq-chicken-pasta-www.thereciperebel.com-600-29-of-36.jpg",
+      "menuId" : "c14",
+      "name" : "BBQ Cicken Pasta",
+      "price" : "450"
+    },
+    "f53" : {
+      "description" : "A Pasta containing Pasta, heavy cream, tomato paste, mozzarella cheese, red sauce with cream.",
+      "image" : "https://i.ytimg.com/vi/fbflHIeAJ90/maxresdefault.jpg",
+      "menuId" : "c14",
+      "name" : "Pink Sauce Pasta",
+      "price" : "250"
+    },
+    "f54" : {
+      "description" : "A Chicken containing Whole chicken, plain flour, lemon, olive oil, garlic and butter.",
+      "image" : "https://media.istockphoto.com/photos/roast-chicken-picture-id1268693109?b=1&k=20&m=1268693109&s=170667a&w=0&h=qKijNin6--_DjH20ZtKOa2bOtd2EicqF9Y0-I1XxTow=",
+      "menuId" : "c15",
+      "name" : "Roast Chicken",
+      "price" : "400"
+    },
+    "f55" : {
+      "description" : "A Chicken dish containing roasted chicken marinated in yogurt and spices in a tandoor, a cylindrical clay oven.",
+      "image" : "https://static01.nyt.com/images/2021/09/22/dining/17chickenrex/merlin_194652171_2bbe3336-29a8-4ba2-81ba-449ce2f1904c-articleLarge.jpg",
+      "menuId" : "c15",
+      "name" : "Chicken Tandori",
+      "price" : "250"
+    },
+    "f56" : {
+      "description" : "A Chicken containing Chicken, cream, cashew nuts, butter, yogurt, Kasuri methi leaves and green chilies.",
+      "image" : "https://i.pinimg.com/564x/1d/54/e4/1d54e49d96d691f4f0e8465e1509bc9c.jpg",
+      "menuId" : "c15",
+      "name" : "Chicken Afghani",
+      "price" : "230"
+    },
+    "f57" : {
+      "description" : "Chicken pieces coated with seasoned flour or butter and pan-fried, deep fried, pressure fried, or air fried.",
+      "image" : "https://img-global.cpcdn.com/recipes/10685c2e7fd4ed36/680x482cq70/instant-crispy-juicy-chicken-fry-recipe-main-photo.webp",
+      "menuId" : "c15",
+      "name" : "Chicken Fry",
+      "price" : "150"
+    },
+    "f58" : {
+      "description" : "A Chicken containing Chicken, yogurt, garam masala powder, red pepper and tikka masala.",
+      "image" : "https://www.awesomecuisine.com/wp-content/uploads/2014/03/chicken-tikka.jpg",
+      "menuId" : "c15",
+      "name" : "Chicken Tikka",
+      "price" : "150"
+    },
+    "f59" : {
+      "description" : "A Chicken containing Bread crumbs, minced chicken, garam masala powder and red sauce.",
+      "image" : "https://www.ndtv.com/cooks/images/chicken.seekh.jpg",
+      "menuId" : "c15",
+      "name" : "Chicken Seekh Kabab",
+      "price" : "160"
+    },
+    "f60" : {
+      "description" : "A Chicken containing Chicken, yogurt, chili, garam masala, saffron and kali mirch.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/chicken-korma_14450.jpg",
+      "menuId" : "c15",
+      "name" : "Chicken Qorma",
+      "price" : "210"
+    },
+    "f61" : {
+      "description" : "A Chicken containing Black seed, chicken, ginger, Thai green chili, tomatoes, green chili peppers and butter.",
+      "image" : "https://satyamskitchen.com/wp-content/uploads/2021/03/chicken_karahi_background_1_60-e1615515187927.jpg",
+      "menuId" : "c15",
+      "name" : "Chicken Karahi",
+      "price" : "250"
+    },
+    "f62" : {
+      "description" : "A Fried Chicken containing Chicken, lemon juice, egg, chili powder, lemon juice and deep frying.",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtb5skbJjwxLmkZXz1BqeZAvjxnsQciU9ekdanAtTM9RTyc1t-R7UsRws4zK4EdKFERg&usqp=CAU",
+      "menuId" : "c15",
+      "name" : "Chicken Broast",
+      "price" : "320"
+    },
+    "f63" : {
+      "description" : "A Chicken containing Whole chicken, ginger, green chilies, lemon juice, vinegar, spice mix and black pepper.",
+      "image" : "https://www.deliciousmagazine.co.uk/wp-content/uploads/2018/07/680635-1-eng-GB_baluchi-style-chicken-sajji.jpg",
+      "menuId" : "c15",
+      "name" : "Chicken Sajji",
+      "price" : "550"
+    },
+    "f64" : {
+      "description" : "A Chicken Stir fry, fried rice, bell peppers and chili garlic sauce.",
+      "image" : "https://media.istockphoto.com/photos/chicken-manchurian-picture-id1288386329?b=1&k=20&m=1288386329&s=170667a&w=0&h=Xo3USF2xiJI6xdHih_6VJvEk3T32lqy42LHf06Dj-9s=",
+      "menuId" : "c15",
+      "name" : "Chicken Manchurian",
+      "price" : "210"
+    },
+    "f65" : {
+      "description" : "A White Chicken containing Dahi, Boneless chicken cubes, yogurt, heavy cream, butter, coriander seeds.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/white-karahi_14541.jpg",
+      "menuId" : "c15",
+      "name" : "Chicken White Karahi",
+      "price" : "210"
+    },
+    "f66" : {
+      "description" : "Chicken added in rice and spices, also containing Eggs and vegetables such as potatoes, fried onions, ginger.",
+      "image" : "https://media.istockphoto.com/photos/chicken-biryani-picture-id1058029096?b=1&k=20&m=1058029096&s=170667a&w=0&h=jJeEXeopmbH1EVCPtzt617sRV7GqNbydJGNfxaiznfg=",
+      "menuId" : "c16",
+      "name" : "Chicken Biryani",
+      "price" : "140"
+    },
+    "f67" : {
+      "description" : "A Biryani containing Mutton, raw papaya paste, basmati rice, rose water, fried onions and biryani masala.",
+      "image" : "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Mutton-Biryani-Recipe.jpg",
+      "menuId" : "c16",
+      "name" : "Mutton Biryani",
+      "price" : "160"
+    },
+    "f68" : {
+      "description" : "A Biryani containing Lamb chops, basmati rice, garam masala, roma tomatoes, spinach and spice paste.",
+      "image" : "https://www.cubesnjuliennes.com/wp-content/uploads/2019/04/Instant-Pot-Lamb-Biryani-Recipe.jpg",
+      "menuId" : "c16",
+      "name" : "Lamb Biryani",
+      "price" : "190"
+    },
+    "f69" : {
+      "description" : "Zafrani Biryani is surely a treat to eat. Prepared with meat, basmati Rice, and little bit of Zafran blended with Biryani Masala.",
+      "image" : "https://www.masala.tv/wp-content/uploads/2017/02/1-4.jpg",
+      "menuId" : "c16",
+      "name" : "Zafrani Biryani",
+      "price" : "180"
+    },
+    "f70" : {
+      "description" : "Vegetable biryani is an aromatic rice dish made with basmati rice, mix veggies, herbs & biryani spices.",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhRs9D3LI196Qp14JkzakkKgNdt3-LttBwQ&usqp=CAU",
+      "menuId" : "c16",
+      "name" : "Vegetable Biryani",
+      "price" : "150"
+    },
+    "f71" : {
+      "description" : "Fish biryani is a layered fish and rice dish containing Basmati rice, boneless fish fillets, garam masala powder, chilies & tomatoes.",
+      "image" : "https://www.masala.tv/wp-content/uploads/2020/12/fish-biryanii.jpg",
+      "menuId" : "c16",
+      "name" : "Fish Biryani",
+      "price" : "210"
+    },
+    "f72" : {
+      "description" : "A Dum Biryani in which meat is marinated and cooked along with short grain and fine rice. It is left on a slow fire or dum for a fragrant and aromatic flavor.",
+      "image" : "https://img-global.cpcdn.com/recipes/71c543f5692ab4cf/680x482cq70/aloo-dum-biryani-recipe-main-photo.webp",
+      "menuId" : "c16",
+      "name" : "Aloo Dum Biryani",
+      "price" : "140"
+    },
+    "f73" : {
+      "description" : "A Biryani made of Beef, rice, tomato, green chilies.",
+      "image" : "https://www.masala.tv/wp-content/uploads/2020/01/beef-biryaniI-1024x576.jpg",
+      "menuId" : "c16",
+      "name" : "Beef Biryani",
+      "price" : "170"
+    },
+    "f74" : {
+      "description" : "Chana biryani is an aromatic, spiced and delicious dum cooked layered biryani made with white chicken pieces, basmati rice, coconut milk, onion & garam masala.",
+      "image" : "https://hinzcooking.com/wp-content/uploads/2019/03/chana-biryani-chole-biryani-150x150.jpg",
+      "menuId" : "c16",
+      "name" : "Chana Biryani",
+      "price" : "120"
+    },
+    "f75" : {
+      "description" : "Qeema Biryani or Mutton Qeema Biryani is a subtly spiced Biryani that combines perfectly cooked, flavorful minced meat with different spices and Long grain, aromatic Biryani rice. If you do not prefer bone on the meat, then this Biryani will definitely excite you.",
+      "image" : "https://i.ytimg.com/vi/kY4HmY8Dmwk/maxresdefault.jpg",
+      "menuId" : "c16",
+      "name" : "Qeema Biryani",
+      "price" : "150"
+    },
+    "f76" : {
+      "description" : "Fragrant basmati rice cooked with aromatic biryani spices, herbs & boiled eggs to yield a delicious one pot egg biryani.",
+      "image" : "https://biryanibowlwa.com/wp-content/uploads/2021/04/Egg-Biryani-1.jpg",
+      "menuId" : "c16",
+      "name" : "Egg Biryani",
+      "price" : "160"
+    },
+    "f77" : {
+      "description" : "Veg Chow Mein is a very tasty and popular stir-fried vegetable noodle dish containing Green chili sauce, cabbage, soy sauce, noodles & spring onion.",
+      "image" : "https://i.ytimg.com/vi/eSTYcMhoRzU/maxresdefault.jpg",
+      "menuId" : "c17",
+      "name" : "Vegetable Chowmein",
+      "price" : "210"
+    },
+    "f78" : {
+      "description" : "Noodles containing boiled egg, soy sauce, hot sauce, fresh beans and carrot.",
+      "image" : "http://3.bp.blogspot.com/-CutC1dzZUUw/Vef9kEFZiDI/AAAAAAAAAdQ/R-377Ujh0oI/s1600/Egg%2BNoodles.jpg",
+      "menuId" : "c17",
+      "name" : "Spicy Egg Noodles",
+      "price" : "190"
+    },
+    "f79" : {
+      "description" : "One-pan dinner made with chicken, vegetables, classic chow mein noodles, and chowmein sauce. A healthier dish with mixed vegetables.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/chicken-chow-mien_9421.jpg",
+      "menuId" : "c17",
+      "name" : "Chicken Chowmein",
+      "price" : "240"
+    },
+    "f80" : {
+      "description" : "A Chowmein made of Hakka noodles, cabbage, soy sauce, beans, spring onions and mutton.",
+      "image" : "https://merokhaja.com/wp-content/uploads/2018/07/mutton-noodles-online-food-delivery-in-butwal-nepal.png",
+      "menuId" : "c17",
+      "name" : "Mutton Chowmein",
+      "price" : "210"
+    },
+    "f81" : {
+      "description" : "Beef chow mein is tender steak stir fried with vegetables and noodles in a flavorful sauce.",
+      "image" : "https://www.tandoorihut.com.pk/storage/2014/12/Beef-Chow-Mein-500x500.jpg",
+      "menuId" : "c17",
+      "name" : "Beef Chowmein",
+      "price" : "190"
+    },
+    "f82" : {
+      "description" : "Chinese fried rice is a healthy option, it is loaded with lots of exciting flavors especially made with white long grain rice",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3HLVG5mweXec6D5LQXJMit0QPPsmtwm5BA&usqp=CAU",
+      "menuId" : "c17",
+      "name" : "Chinese Fried Rice",
+      "price" : "120"
+    },
+    "f83" : {
+      "description" : "Long grain rice or white rice is steamed or is sometimes known as boiled rice.",
+      "image" : "https://dinnerthendessert.com/wp-content/uploads/2019/02/Chinese-Steamed-Rice-2.jpg",
+      "menuId" : "c17",
+      "name" : "Chinese Steamed Rice",
+      "price" : "110"
+    },
+    "f84" : {
+      "description" : "Spaghetti containing Boneless chicken breast, broccoli, pearl onions, Shimla mirch, corn flour, Chili paste, tomato, carrots, butter & capsicum.",
+      "image" : "https://i.ytimg.com/vi/nVyyoBr1m4k/maxresdefault.jpg",
+      "menuId" : "c17",
+      "name" : "Chicken Vegetable Spaghetti",
+      "price" : "210"
+    },
+    "f85" : {
+      "description" : "Garlic Butter Mushroom Pasta is a simple pasta dish made of Spaghetti, red pepper flakes, olive oil, garlic, pecorino romano & chilli flakes.",
+      "image" : "https://realfood.tesco.com/media/images/1400x919-GarlicMushroomChickenSpaghetti-ac3854fa-c2cc-4023-b75e-87f220fa052d-0-1400x919.jpg",
+      "menuId" : "c17",
+      "name" : "Mushroom Garlic Spaghetti",
+      "price" : "240"
+    },
+    "f86" : {
+      "description" : "Spaghetti containing Parmesan cheese, milk, salted butter, all purpose flour & garlic powder.",
+      "image" : "https://i.ytimg.com/vi/yhWhbpuIipc/maxresdefault.jpg",
+      "menuId" : "c17",
+      "name" : "White Spaghetti",
+      "price" : "180"
+    },
+    "f87" : {
+      "description" : "Fried dumplings containing Ground beef, oyster sauce, soy sauce, toasted sesame oil, ginger.",
+      "image" : "https://mission-food.com/wp-content/uploads/2017/01/Spicy-Beef-Dumplings-22.jpg",
+      "menuId" : "c17",
+      "name" : "Spicy Beef Dumplings",
+      "price" : "260"
+    },
+    "f88" : {
+      "description" : "Crispy pan-fried Vegan Gyoza (Jiaozi) are Japanese Vegetable Dumplings (called Potstickers) contains Cabbage, soy sauce, chinese chives, shiitake mushrooms.",
+      "image" : "https://thetableofspice.com/wp-content/uploads/2019/01/DSC_5440-1440x960.jpg",
+      "menuId" : "c17",
+      "name" : "Vegetable Dumplings",
+      "price" : "240"
+    },
+    "f89" : {
+      "description" : "Creamy & buttery Dal Makhani made of whole black lentils cooked with butter and cream and simmered on low heat for that unique flavor. It tastes best with garlic naan!.",
+      "image" : "https://www.awesomecuisine.com/wp-content/uploads/2014/06/dal-makhani.jpg",
+      "menuId" : "c18",
+      "name" : "Dal Makhani",
+      "price" : "80"
+    },
+    "f90" : {
+      "description" : "Chana Dal are brown chickpeas which have been split and skinned made of chana dal, garam masala powder, ginger, kasuri methi.",
+      "image" : "https://cdn.shortpixel.ai/spai/w_728+q_lossy+ret_img+to_webp/https://greenbowl2soul.com/wp-content/uploads/2019/09/chana-dal_3.jpg",
+      "menuId" : "c18",
+      "name" : "Chana Dal",
+      "price" : "90"
+    },
+    "f91" : {
+      "description" : "Dal Chawal is the ultimate comfort food containing Split red lentil, split green gram, chawal & tomatoes.",
+      "image" : "https://www.masala.tv/wp-content/uploads/2019/11/Daal-Chawal.jpg",
+      "menuId" : "c18",
+      "name" : "Dal Chawal",
+      "price" : "90"
+    },
+    "f92" : {
+      "description" : "Haleem is a rich and delectable mutton stew. Haleem Mix has the perfect proportion of whole lentils, wheat grains and spices.",
+      "image" : "https://www.thedeliciouscrescent.com/wp-content/uploads/2020/08/Haleem-6-500x500.jpg",
+      "menuId" : "c18",
+      "name" : "Haleem",
+      "price" : "130"
+    },
+    "f93" : {
+      "description" : "Kabuli pulao contains steamed rice mixed with raisins, carrots, and beef or lamb.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/kabuli-pulao-with-nuts_11113.jpg",
+      "menuId" : "c19",
+      "name" : "Kabuli Pulao",
+      "price" : "160"
+    },
+    "f94" : {
+      "description" : "Mutton Pulao is just like other Pulaos, by simmering up a broth (called yakhni) using the meat and a variety of aromatic whole spices.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/mutton-yakhni-pulao_13413.jpg",
+      "menuId" : "c19",
+      "name" : "Mutton Yakhni Pulao",
+      "price" : "150"
+    },
+    "f95" : {
+      "description" : "Paneer, potatoes, malai, green peas, french beans with mixed vegetables masala.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/mix-vegetables_12294.jpg",
+      "menuId" : "c20",
+      "name" : "Mix Sabzi",
+      "price" : "110"
+    },
+    "f96" : {
+      "description" : "Saag a vegetable dish in which spinach or other dark greens are stewed with ginger, garlic, fresh chiles and spices until meltingly soft.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/sarson-ka-saag_125.jpg",
+      "menuId" : "c20",
+      "name" : "Saag",
+      "price" : "90"
+    },
+    "f97" : {
+      "description" : "Keema Kareela a traditional Pakistani dish made of Bitter gourd, karela, minced meat, ginger, tomatoes.",
+      "image" : "https://kfoods.com/images1/newrecipeicon/keema-karelay_16062.jpg",
+      "menuId" : "c20",
+      "name" : "Keema Karela",
+      "price" : "120"
+    },
+    "f98" : {
+      "description" : "Karela fried containing yogurt, jaggery, curry leaves and garlic.",
+      "image" : "https://static.toiimg.com/thumb/58061969.cms?imgsize=105277&width=800&height=800",
+      "menuId" : "c20",
+      "name" : "Fried Karela",
+      "price" : "140"
+    },
+    "f99" : {
+      "description" : "Lobia Curry (black eyed beans curry) is a simple yet delicious curry (sabji with gravy) made of Black eyed beans, garam masala powder, ginger, green chilies, chopped tomatoes.",
+      "image" : "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/nithya.anantham/Punjabi_Lobia_Masala_Recipe_Punjabi_Style_Black_Eyed_Peas_Curry.jpg",
+      "menuId" : "c20",
+      "name" : "Lobia Curry",
+      "price" : "120"
+    }
+  },
+  "Orders" : {
+    "-MykUVHYmAFw_mdLFPt-" : {
+      "food_items" : [ {
+        "name" : "Chicken Tikka Burger",
+        "price" : "150",
+        "quantity" : "2"
+      } ],
+      "total_price" : "300",
+      "useraddress" : "attock",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    },
+    "-Mz4MrRY9DWfaV8zaaf1" : {
+      "food_items" : [ {
+        "name" : "fajita pizza",
+        "price" : "600",
+        "quantity" : "1"
+      } ],
+      "total_price" : "600",
+      "useraddress" : "abc",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    }
+  },
+  "Recommendations" : {
+    "Abeera" : {
+      "deals" : [ "Special Nashta Deal", "Sahri Deal", "Zouk Deal", "Desi Nashta Deal" ],
+      "foods" : [ "Fish Pizza", "Hawaiian Pizza", "Chicken Cheese Burger", "Chicken Florentine Pasta", "Spicy Steamed Fish", "Vegetable Biryani", "Grilled Cheese Sandwich", "Vanilla Ice Cream", "Hamburger", "Corn Vegetable Soup", "Qeema Biryani", "Lemon Soda", "Sprite", "Creamy Pasta", "Chicken Sausage Pasta", "Vegetable Alfredo Pasta", "Pink Sauce Pasta", "Shami Burger", "Bbq Cicken Pasta" ]
+    }
+  },
+  "Restaurant_Details" : {
+    "Catering_Details" : {
+      "adv_booking_time" : "48",
+      "delivery_charges" : "500"
+    },
+    "Event_Booking_Details" : {
+      "adv_booking_time" : "48",
+      "decor_rate_balloons" : "2000",
+      "extra_decor" : "500",
+      "hall_area" : "30",
+      "hall_price_per_hour" : "500",
+      "max_people" : "50",
+      "song_rate_per_hour" : "50",
+      "stage_decor_price" : "3000"
+    },
+    "Food_Delivery_Details" : {
+      "delivery_area_limit" : "7",
+      "delivery_price" : "50",
+      "delivery_time_max" : "30",
+      "delivery_time_min" : "20"
+    },
+    "General_Details" : {
+      "catering" : "yes",
+      "event_booking" : "yes",
+      "food_delivery" : "yes",
+      "restr_address" : "ABC Road Fateh Jang",
+      "restr_closing_time" : "22:00",
+      "restr_name" : "ABC Restaurant",
+      "restr_opening_time" : "7:00",
+      "restr_sitting_area" : "30",
+      "table_booking" : "yes",
+      "tables" : "7"
+    },
+    "Table_Booking_Details" : {
+      "adv_booking_time" : "4",
+      "max_people" : "15"
+    }
+  },
+  "Table_Booking" : {
+    "-MpFQCf4wBb7a-9MoYX2" : {
+      "date" : "12-12-2021",
+      "food_items" : [ {
+        "name" : "lasagne",
+        "price" : "650",
+        "quantity" : "2"
+      }, {
+        "name" : "red sauce pasta",
+        "price" : "550",
+        "quantity" : "1"
+      } ],
+      "people" : "2",
+      "time" : "14:00",
+      "total_price" : "1200",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    },
+    "-Mz4Rhg1P_9pSe8-JJ5y" : {
+      "date" : "23-03-2022",
+      "food_items" : [ {
+        "name" : "fajita pasta",
+        "price" : "200",
+        "quantity" : "1"
+      } ],
+      "people" : "6",
+      "time" : "15:00",
+      "total_price" : "200",
+      "username" : "Abeera",
+      "userphone" : "56789432"
+    }
+  },
+  "User" : {
+    "admin" : {
+      "email" : "admin@gmail.com",
+      "name" : "Admin",
+      "password" : "0987",
+      "phone" : "68767684"
+    },
+    "user1" : {
+      "email" : "abeera@gmail.com",
+      "name" : "Abeera",
+      "password" : "1234",
+      "phone" : "56789432"
+    },
+    "user2" : {
+      "email" : "sundas@gmail.com",
+      "name" : "Sundas",
+      "password" : "5678",
+      "phone" : "46769431"
+    },
+    "user3" : {
+      "email" : "zoya@gmail.com",
+      "name" : "Zoya",
+      "password" : "8910",
+      "phone" : "456778888"
+    },
+    "user4" : {
+      "email" : "ayesha@gmail.com",
+      "name" : "Ayesha",
+      "password" : "1357",
+      "phone" : "46778999"
+    },
+    "user5" : {
+      "email" : "saba@gmail.com",
+      "name" : "Saba",
+      "password" : "2468",
+      "phone" : "63784849"
+    },
+    "user6" : {
+      "email" : "abc@gmail.com",
+      "name" : "abc",
+      "password" : "4456466",
+      "phone" : "678687"
+    },
+    "user7" : {
+      "email" : "ahmed@gmail.com",
+      "name" : "Ahmed",
+      "password" : "56789334",
+      "phone" : "56374883"
+    },
+    "user8" : {
+      "email" : "ali@gmail.com",
+      "name" : "ali",
+      "password" : "3456",
+      "phone" : "46373882"
+    }
+  }
+}

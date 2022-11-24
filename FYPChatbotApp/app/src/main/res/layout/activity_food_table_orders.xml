@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FoodTableOrdersActivity"
+    android:background="@color/primaryShadow">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar18"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimaryDark"
+        app:popupTheme="@style/Theme.FYPChatbotApp.PopupOverlay" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/list_foods"
+        android:backgroundTint="@color/white"
+        android:layout_below="@id/toolbar18"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:textColor="@color/grey"
+        android:textStyle="italic"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/list_foods"
+        android:id="@+id/table_order_total_price"
+        android:layout_marginTop="10dp"
+        android:layout_centerInParent="true"
+        android:text="Total Price:"/>
+
+</RelativeLayout>

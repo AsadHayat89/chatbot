@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="4dp"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="0.3"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/tvItemQty"
+            android:text="1"
+            android:textColor="@color/grey"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="3"
+            android:layout_marginTop="5dp"
+            android:id="@+id/tvItemName"
+            android:text="Item Name"
+            android:textColor="@color/grey"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="30dp"
+            android:id="@+id/btnRemoveItem"
+            android:layout_margin = "8dp"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/white"
+            android:text="Remove"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

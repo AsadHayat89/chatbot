@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.fypchatbotapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FYPChatbotApp"
+        android:usesCleartextTraffic="true"
+        tools:replace="android:theme">
+        <activity
+            android:name=".AdminAddFoodActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" ></activity>
+        <activity
+            android:name=".CateringDetails"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".EventBookingDetails"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".TableBookingDetails"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".FoodDeliveryDetails"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".FoodCateringOrders"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".RestaurantDetailsActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminUpdateDeal"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminAddDeal"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminAddDealCategory"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminUpdateDealCategory"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminDealActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminDealCategoryActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".DealCategoryActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".FoodEventOrderActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".FoodTableOrdersActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".FoodOrdersActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminCateringOrders"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminEventBookingOrders"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminTableBookingOrders"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminFoodOrders"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".CateringOrders"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".EventBookingOrders"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".TableBookingOrders"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminUpdateFoodActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminUpdateCategory"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminFoodListActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminMenuActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".AdminAddCategory"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".DealsActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".MenuActivity"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".FoodList"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".FoodDetails"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".Simple_Food_Order"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".ChatActivity"
+            android:label="@string/title_activity_chat"
+            android:theme="@style/Theme.FYPChatbotApp.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.FYPChatbotApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignIn" />
+        <activity android:name=".SignUp" />
+    </application>
+
+</manifest>

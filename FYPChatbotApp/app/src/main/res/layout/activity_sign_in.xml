@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryShadow"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/tvSignIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOG IN"
+            android:layout_centerInParent="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30dp"
+            android:layout_alignParentBottom="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true">
+
+            <EditText
+                android:id="@+id/etUser"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="username:"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/grey"
+                android:textColorHint="@color/hint"
+                android:background="@drawable/textbox"
+                android:textSize="18sp"
+                android:padding="15dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:padding="15dp"
+                android:id="@+id/etPassword"
+                android:hint="password:"
+                android:textColor="@color/grey"
+                android:textColorHint="@color/hint"
+                android:layout_marginTop="15dp"
+                android:textSize="18sp"
+                android:background="@drawable/textbox"
+                android:inputType="textPassword"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_below="@+id/etUser"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnSignIn1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="-3dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/signupsignin"
+            android:text="Log In"
+            android:textColor="@color/white" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@+id/btnSignIn1"
+            android:layout_centerInParent="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create an account? Sign Up"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="2.5dp"
+            android:textColor="@color/colorPrimaryDark"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/createAcc"
+            android:text="here"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:layout_below="@id/btnSignIn1"
+            android:layout_marginLeft="2.5dp"
+            android:layout_marginTop="15dp"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

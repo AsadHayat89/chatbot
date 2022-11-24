@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Simple_Food_Order"
+    android:background="@color/primaryShadow">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar17"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimaryDark"
+        app:popupTheme="@style/Theme.FYPChatbotApp.PopupOverlay" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/list_foods"
+        android:backgroundTint="@color/white"
+        android:layout_below="@id/toolbar17"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/list_foods"
+        android:id="@+id/txt_total_bill_del"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="8dp"
+        android:text="Total"
+        android:textColor="@color/grey"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:textColor="@color/grey"
+        android:textStyle="italic"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_total_bill_del"
+        android:id="@+id/order_total_price"
+        android:layout_marginTop="10dp"
+        android:layout_centerInParent="true"
+        android:text="Total Price:"/>
+
+</RelativeLayout>

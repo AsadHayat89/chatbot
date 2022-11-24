@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryShadow"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.7">
+
+        <TextView
+            android:id="@+id/tvSignUp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="SIGN UP"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30dp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+            <EditText
+                android:id="@+id/etUser1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:textColorHint="@color/hint"
+                android:layout_marginBottom="10dp"
+                android:hint="Username:"
+                android:padding="15dp"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/grey"
+                android:background="@drawable/textbox"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:padding="15dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:background="@drawable/textbox"
+                android:hint="Name:"
+                android:inputType="text"
+                android:textColor="@color/grey"
+                android:textColorHint="@color/hint"
+                android:textSize="18sp"
+                android:layout_below="@+id/etUser1"/>
+
+            <EditText
+                android:id="@+id/etPhone"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:background="@drawable/textbox"
+                android:padding="15dp"
+                android:hint="Phone:"
+                android:inputType="text"
+                android:textColor="@color/grey"
+                android:textColorHint="@color/hint"
+                android:textSize="18sp"
+                android:layout_below="@+id/etName"/>
+
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:background="@drawable/textbox"
+                android:padding="15dp"
+                android:hint="Email:"
+                android:inputType="text"
+                android:textColor="@color/grey"
+                android:textColorHint="@color/hint"
+                android:textSize="18sp"
+                android:layout_below="@+id/etPhone"/>
+
+            <EditText
+                android:id="@+id/etPassword1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:background="@drawable/textbox"
+                android:padding="15dp"
+                android:hint="Password:"
+                android:inputType="textPassword"
+                android:textColor="@color/grey"
+                android:textColorHint="@color/hint"
+                android:textSize="18sp"
+                android:layout_below="@+id/etEmail"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnSignUp1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/signupsignin"
+            android:text="Sign Up"
+            android:textColor="@color/white"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_centerInParent="true"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@+id/btnSignUp1"
+            android:layout_centerInParent="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Already have an account? Log in"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="2.5dp"
+                android:textColor="@color/colorPrimaryDark"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/logAcc"
+                android:text="here"
+                android:textColor="@color/colorPrimaryDark"
+                android:textStyle="bold"
+                android:layout_below="@id/btnSignIn1"
+                android:layout_marginLeft="2.5dp"
+                android:layout_marginTop="15dp"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

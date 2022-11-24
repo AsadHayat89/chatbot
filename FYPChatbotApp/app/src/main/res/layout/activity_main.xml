@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1CA099"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:id="@+id/rl1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Let's have a taste!"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:textColor="@color/white"
+            android:textSize="32sp"
+            android:textStyle="italic"
+            android:textAlignment="center"
+            android:lineSpacingExtra="10dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:id="@+id/rl2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/foodImage"
+            android:src="@drawable/food">
+
+        </ImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:id="@+id/rl3">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnSignIn"
+                android:text="LOG IN"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:textColor="#1CA099"
+                android:layout_centerInParent="true"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/buttonstyle"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSignUp"
+            android:text="SIGN UP"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textColor="#1CA099"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/buttonstyle"/>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

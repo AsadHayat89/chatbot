@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp"
+    app:cardBackgroundColor="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center_vertical">
+
+        <LinearLayout
+            android:layout_weight="9"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/catering_order_name"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical|start"
+                android:textStyle="bold"
+                android:text="Abeera"
+                android:textColor="@color/grey"
+                android:layout_marginBottom="2dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/catering_order_phone"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical|start"
+                android:layout_marginBottom="2dp"
+                android:text="758972895"
+                android:textColor="@color/grey"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/catering_order_date"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical|start"
+                android:layout_marginBottom="2dp"
+                android:textColor="@color/grey"
+                android:text="09-09-2022"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/catering_order_time"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical|start"
+                android:layout_marginBottom="2dp"
+                android:textColor="@color/grey"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/catering_order_people"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical|start"
+                android:layout_marginBottom="2dp"
+                android:textColor="@color/grey"
+                android:text="4"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/catering_order_location"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical|start"
+                android:layout_marginBottom="2dp"
+                android:textColor="@color/grey"
+                android:text="4"/>
+
+
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="5dp"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/white"
+            android:id="@+id/DelCateringOrder"
+            android:text="Delete"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorPrimaryDark"
+        android:layout_gravity="bottom"/>
+
+</androidx.cardview.widget.CardView>

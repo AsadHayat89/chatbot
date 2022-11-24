@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FYPChatbotApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/btnSignUp</item>
+        <item name="colorPrimaryVariant">@color/btnSignActive</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/btnSignUp</item>
+        <item name="android:statusBarColor">@color/btnSignUp</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.FYPChatbotApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.FYPChatbotApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.FYPChatbotApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
